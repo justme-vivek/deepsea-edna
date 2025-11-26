@@ -1,0 +1,6 @@
+streamlit
+biopython>=1.83
+pandas
+numpy
+requests
+pyarrow
