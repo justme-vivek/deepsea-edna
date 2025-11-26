@@ -1,0 +1,146 @@
+qseqid	sseqid	pident	length	evalue	bitscore	stitle	sacc	classification
+cluster0_cons|n6	gi|19645|emb|X13289.1|	82.456	114	5.21e-20	113.0	Medicago sativa mRNA for nodulin-25 (clone 910)	X13289	weak_or_novel
+cluster100_cons|n16	gi|20786|emb|X67423.1|	96.899	129	2.31e-51	219.0	Pisum sativum legK gene (clone lambda LegJ2)	X67423	reliable
+cluster101_cons|n35	gi|11149|emb|X70865.1|	99.515	206	1.6e-98	375.0	D.melanogaster mRNA for sgg10 protein kinase (clone pnB9)	X70865	reliable
+cluster102_cons|n24	gi|22421|emb|X57743.1|	97.992	249	4.31e-114	427.0	Z.mays mRNA for polygalacturonase (clone PG3)	X57743	reliable
+cluster103_cons|n8	gi|22525|emb|V01474.1|	97.235	434	0.0	737.0	Zea mays gene encoding a zein (clone zA1)	V01474	reliable
+cluster104_cons|n10	gi|22526|emb|V01475.1|	77.855	429	1.38e-72	289.0	Zea mays mRNA encoding a zein (clone zA1)	V01475	weak_or_novel
+cluster105_cons|n7	gi|54652006|gb|BT017225.1|	90.545	275	9.089999999999999e-94	359.0	Zea mays clone EL01N0302C12.c mRNA sequence	BT017225	reliable
+cluster106_cons|n10	gi|22392|emb|X14580.1|	87.845	362	1.02e-123	459.0	Maize phosphoenolpyruvate carboxylase gene 5'flanking region (EC 4.1.1.31) clone M91	X14580	weak_or_novel
+cluster107_cons|n11	gi|1174098204|ref|NM_001111962.2|	99.187	246	1.22e-118	442.0	Zea mays exopolygalacturonase 1 (LOC542387), mRNA	NM_001111962	reliable
+cluster108_cons|n16	gi|2129715303|gb|CP086035.1|	96.606	442	0.0	736.0	Leishmania major breed Culture 1 isolate JRCGR_LM-01 chromosome 12	CP086035	reliable
+cluster109_cons|n9	gi|1174098204|ref|NM_001111962.2|	98.718	546	0.0	963.0	Zea mays exopolygalacturonase 1 (LOC542387), mRNA	NM_001111962	reliable
+cluster10_cons|n7	gi|19028|emb|X15691.1|	96.525	518	0.0	857.0	Barley mRNA for chloroplast low molecular mass early light-inducible protein (ELIP) (clone HV60)	X15691	reliable
+cluster110_cons|n7	gi|21213157|gb|AY109436.1|	92.188	64	9.05e-14	93.5	Zea mays CL1124_1 mRNA sequence	AY109436	weak_or_novel
+cluster111_cons|n7	gi|214016475|gb|EU725202.1|	92.063	63	8.54e-14	93.5	Zea mays subsp. parviglumis isolate rip1_g16 ribosome-inactivating protein (rip1) gene, complete cds	EU725202	weak_or_novel
+cluster112_cons|n11	gi|22518|emb|V01470.1|	91.778	450	5.3e-177	636.0	Zea mays gene encoding a zein gene (clone lambda-ZG99)	V01470	reliable
+cluster113_cons|n10	gi|1219456034|ref|NM_001150311.2|	83.688	141	2.27e-25	132.0	Zea mays uncharacterized LOC100276549 (LOC100276549), mRNA	NM_001150311	weak_or_novel
+cluster114_cons|n7	gi|22185|emb|X54212.1|	85.801	331	3.13e-94	361.0	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.120)	X54212	weak_or_novel
+cluster115_cons|n8	gi|22185|emb|X54212.1|	94.015	401	1.86e-171	617.0	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.120)	X54212	reliable
+cluster116_cons|n6	gi|22390|emb|X14581.1|	92.226	283	1.35e-105	398.0	Maize phosphoenolpyruvate carboxylase gene 5'flanking region (EC 4.1.1.31) clone M21	X14581	reliable
+cluster117_cons|n5	gi|985567221|ref|NM_001319734.1|	87.681	276	2.94e-93	357.0	Zea mays ribosome-inactivating protein (LOC103635696), mRNA	NM_001319734	weak_or_novel
+cluster118_cons|n13	gi|22185|emb|X54212.1|	80.968	310	2.87e-70	281.0	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.120)	X54212	weak_or_novel
+cluster119_cons|n15	gi|22187|emb|X70153.1|	90.678	236	3.14e-79	311.0	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.129)	X70153	reliable
+cluster11_cons|n6	gi|19028|emb|X15691.1|	90.574	244	2.66e-79	311.0	Barley mRNA for chloroplast low molecular mass early light-inducible protein (ELIP) (clone HV60)	X15691	reliable
+cluster120_cons|n17	gi|214016487|gb|EU725208.1|	99.219	128	3.44e-55	231.0	Zea mays subsp. parviglumis isolate rip1_eg5 ribosome-inactivating protein (rip1) gene, complete cds	EU725208	reliable
+cluster121_cons|n14	gi|22187|emb|X70153.1|	96.313	217	9.819999999999999e-95	363.0	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.129)	X70153	reliable
+cluster122_cons|n14	gi|9584|emb|X56810.1|	93.559	295	1.85e-121	451.0	L.major mRNA for surface antigen P2 (clone 6.4)	X56810	reliable
+cluster123_cons|n14	gi|17105286|gb|AC011341.3|	90.244	82	9.42e-19	110.0	Homo sapiens chromosome 5 clone CTC-269F1, complete sequence	AC011341	weak_or_novel
+cluster124_cons|n13	gi|2462621255|ref|XM_054361327.1|	96.703	91	1.5700000000000001e-31	152.0	PREDICTED: Homo sapiens family with sequence similarity 167 member A (FAM167A), transcript variant X4, mRNA	XM_054361327	weak_or_novel
+cluster125_cons|n6	gi|2772186900|gb|CP139549.2|	95.161	62	1.64e-15	99.0	Homo sapiens isolate NA24385 chromosome 17	CP139549	weak_or_novel
+cluster126_cons|n5	gi|23332|emb|Z16763.1|	86.301	219	9.35e-63	255.0	H. sapiens (D2S134) DNA segment containing (CA) repeat; clone AFM168xg11; single read	Z16763	weak_or_novel
+cluster127_cons|n13	gi|23298|emb|Z16729.1|	91.406	128	2.85e-39	178.0	H. sapiens (D10S204) DNA segment containing (CA) repeat; clone AFM164tg9; single read	Z16729	reliable
+cluster128_cons|n12	gi|23401|emb|Z16816.1|	80.851	94	1.59e-07	73.1	H. sapiens (D20S111) DNA segment containing (CA) repeat; clone AFM190xg1; single read	Z16816	weak_or_novel
+cluster129_cons|n11	gi|9584|emb|X56810.1|	92.969	256	1.46e-102	388.0	L.major mRNA for surface antigen P2 (clone 6.4)	X56810	reliable
+cluster12_cons|n31	gi|409192842|gb|JX490674.1|	78.629	248	6.530000000000001e-43	191.0	Hordeum vulgare subsp. spontaneum isolate 37-2-215-2 alpha-amylase 2 (amy2) mRNA, partial cds	JX490674	weak_or_novel
+cluster130_cons|n12	gi|2129715303|gb|CP086035.1|	83.898	118	4.1699999999999994e-23	124.0	Leishmania major breed Culture 1 isolate JRCGR_LM-01 chromosome 12	CP086035	weak_or_novel
+cluster131_cons|n109	gi|9833|emb|X06426.1|	92.462	199	2.83e-72	289.0	Plasmodium falciparum (FCR3) mRNA, clone 22	X06426	reliable
+cluster132_cons|n26	gi|1533626162|emb|LR131395.1|	75.0	632	1.46e-102	388.0	Plasmodium falciparum genome assembly, chromosome: 10	LR131395	weak_or_novel
+cluster133_cons|n10	gi|10145|emb|X16019.1|	90.0	80	6.170000000000001e-21	117.0	S.lemnae histone H4 gene (clone H4g)	X16019	weak_or_novel
+cluster134_cons|n8	gi|2719426869|gb|CP151525.1|	87.421	159	5.3799999999999996e-42	187.0	Drosophila melanogaster strain ANU-1 chromosome X	CP151525	weak_or_novel
+cluster135_cons|n17	gi|9848|emb|X17486.1|	83.696	276	3.52e-69	278.0	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 25C4)	X17486	weak_or_novel
+cluster136_cons|n24	gi|9850|emb|X17487.1|	90.353	539	0.0	704.0	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 28C6)	X17487	reliable
+cluster137_cons|n26	gi|10075|emb|X57504.1|	77.582	455	4.04e-63	257.0	P.univalens pentameric repeat segment DNA (clone pAm4)	X57504	weak_or_novel
+cluster138_cons|n9	gi|10145|emb|X16019.1|	93.548	124	7.38e-45	196.0	S.lemnae histone H4 gene (clone H4g)	X16019	reliable
+cluster139_cons|n16	gi|10036|emb|X01343.1|	82.723	191	5.22e-37	171.0	Psammechinus miliaris gene for histone H4 (clone h19)	X01343	weak_or_novel
+cluster13_cons|n12	gi|2689468007|gb|CP138071.1|	85.227	264	3.97e-63	257.0	Arabidopsis thaliana ecotype N13 chromosome 1 sequence	CP138071	weak_or_novel
+cluster140_cons|n11	gi|3035691723|emb|OZ296925.1|	100.0	48	1.17e-12	89.8	Strongylocentrotus droebachiensis genome assembly, chromosome: 19	OZ296925	weak_or_novel
+cluster141_cons|n20	gi|2592695272|gb|CP131974.1|	74.753	507	2.11e-71	285.0	Plasmodium falciparum strain W2 chromosome 10	CP131974	weak_or_novel
+cluster142_cons|n7	gi|1533616013|emb|LR131334.1|	88.753	409	3.11e-142	520.0	Plasmodium falciparum strain IT genome assembly, chromosome: 13	LR131334	weak_or_novel
+cluster143_cons|n11	gi|1533644066|emb|LR131490.1|	82.622	328	3.46e-73	291.0	Plasmodium falciparum genome assembly, chromosome: 10	LR131490	weak_or_novel
+cluster144_cons|n5	gi|1533639861|emb|LR131472.1|	84.755	387	5.38e-110	412.0	Plasmodium falciparum genome assembly, chromosome: 7	LR131472	weak_or_novel
+cluster145_cons|n22	gi|9944|emb|X53014.1|	77.899	276	6.3e-46	200.0	P.falciparum DNA for erythrocyte membrane-associated antigen (clone pPf118)	X53014	weak_or_novel
+cluster14_cons|n20	gi|16413|emb|X54369.1|	91.134	688	0.0	933.0	A. thaliana genes for tRNA-Ser and tRNA-Tyr (I and II), (clone pAtY2)	X54369	reliable
+cluster15_cons|n17	gi|16032|emb|X51811.1|	99.641	836	0.0	1524.0	Acetabularia mediterranea mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone M1	X51811	reliable
+cluster16_cons|n13	gi|16038|emb|X51813.1|	84.778	473	2.36e-135	497.0	Acetabularia mediterranea mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone M3	X51813	weak_or_novel
+cluster17_cons|n25	gi|2689467943|gb|CP138016.1|	80.952	231	9.67e-51	217.0	Arabidopsis thaliana ecotype Abd-0 chromosome 1 sequence	CP138016	weak_or_novel
+cluster18_cons|n6	gi|3016222810|emb|OZ271665.1|	92.722	371	8.340000000000001e-144	525.0	Arabidopsis thaliana genome assembly, chromosome: 1	OZ271665	reliable
+cluster19_cons|n12	gi|3016222810|emb|OZ271665.1|	96.139	518	0.0	837.0	Arabidopsis thaliana genome assembly, chromosome: 1	OZ271665	reliable
+cluster1_cons|n5	gi|19114|emb|X05587.1|	96.099	282	2.76e-122	453.0	Barley mRNA for leaf-specific thionin (clone DC4)	X05587	reliable
+cluster20_cons|n17	gi|3016222810|emb|OZ271665.1|	94.876	605	0.0	957.0	Arabidopsis thaliana genome assembly, chromosome: 1	OZ271665	reliable
+cluster21_cons|n22	gi|15975|emb|X51810.1|	78.838	482	7.670000000000001e-86	333.0	Acetabularia cliftonii mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small sububnit (rbcS gene), clone C5	X51810	weak_or_novel
+cluster22_cons|n8	gi|19726|emb|X58513.1|	86.197	355	2.57e-94	361.0	N.rustica cytoplasmic tRNA-tyr gene (pNtY13 clone)	X58513	weak_or_novel
+cluster23_cons|n8	gi|15967|emb|X51808.1|	92.977	299	3.16e-113	424.0	Acetabularia cliftonii mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone C3	X51808	reliable
+cluster24_cons|n12	gi|15967|emb|X51808.1|	94.286	175	4.1099999999999995e-68	274.0	Acetabularia cliftonii mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone C3	X51808	reliable
+cluster25_cons|n10	gi|1092|emb|X60725.1|	95.745	47	1.08e-08	76.8	Feline immunodeficiency virus ENV gene for envelope precursor glycoprotein	X60725	weak_or_novel
+cluster26_cons|n8	gi|15963|emb|X51806.1|	89.37	254	1.2899999999999999e-82	322.0	Acetabularia cliftonii partial mRNA ribulose 1,5-bisphosphate carboxylase/oxygenase (EC 4.1.1.39), small subunit (rbcS gene), clone C1	X51806	weak_or_novel
+cluster27_cons|n8	gi|21550|emb|X60397.1|	88.038	418	9.81e-143	521.0	S.tuberosum promoter region and partial gene for patatin (clone pgT4)	X60397	weak_or_novel
+cluster28_cons|n85	gi|19218|emb|X55692.1|	92.49	253	1.08e-100	383.0	Tomato extensin mRNA (clone w1-8 L)	X55692	reliable
+cluster2_cons|n15	gi|2258205177|ref|XM_048735966.1|	89.27	233	7.7e-76	300.0	PREDICTED: Brassica napus S-locus-specific glycoprotein S13 (LOC125576281), mRNA	XM_048735966	weak_or_novel
+cluster30_cons|n13	gi|305410817|ref|NG_027548.1|	96.33	109	2.34e-40	182.0	Homo sapiens nuclear casein kinase and cyclin dependent kinase substrate 1 (NUCKS1), RefSeqGene on chromosome 1	NG_027548	reliable
+cluster31_cons|n25	gi|169955890|gb|EU548081.1|	95.192	104	2.72e-36	169.0	Solanum tuberosum clone GKCM-TU01 granule-bound starch synthase (waxy) gene, partial cds	EU548081	reliable
+cluster32_cons|n10	gi|169955890|gb|EU548081.1|	97.034	236	7.7e-105	396.0	Solanum tuberosum clone GKCM-TU01 granule-bound starch synthase (waxy) gene, partial cds	EU548081	reliable
+cluster33_cons|n34	gi|9149|emb|X60176.1|	85.714	210	3.1e-50	215.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (5218 bp)	X60176	weak_or_novel
+cluster34_cons|n14	gi|9150|emb|X60177.1|	82.051	390	3.27e-80	315.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (7779 bp)	X60177	weak_or_novel
+cluster35_cons|n6	gi|1701128512|ref|NR_130136.2|	86.496	274	2.49e-79	311.0	Homo sapiens TSC22 domain family member 2 (TSC22D2), transcript variant 3, non-coding RNA	NR_130136	weak_or_novel
+cluster36_cons|n12	gi|2632984093|gb|CP120816.1|	83.86	601	4.57e-152	553.0	Fulvia fulva strain 2 4 9 11 chromosome 2	CP120816	weak_or_novel
+cluster37_cons|n30	gi|2413|emb|X03565.1|	84.091	132	3.45e-25	132.0	Aspergillus nidulans 5S rRNA pseudogene (clone pKS 3-11)	X03565	weak_or_novel
+cluster38_cons|n38	gi|1243416811|gb|CP023336.1|	95.082	122	1.32e-44	196.0	Drosophila melanogaster strain rover (forR) chromosome 3R	CP023336	reliable
+cluster39_cons|n25	gi|1972231143|ref|NM_059851.6|	79.675	246	1.0299999999999999e-40	183.0	Caenorhabditis elegans PHAF1 protein T01G9.2 (phaf-1), mRNA	NM_059851	weak_or_novel
+cluster3_cons|n32	gi|2258205177|ref|XM_048735966.1|	87.675	357	1.56e-123	459.0	PREDICTED: Brassica napus S-locus-specific glycoprotein S13 (LOC125576281), mRNA	XM_048735966	weak_or_novel
+cluster40_cons|n25	gi|14318401|gb|AC009961.11|	90.244	82	3.76e-19	111.0	Homo sapiens BAC clone RP11-357L2 from 2, complete sequence	AC009961	weak_or_novel
+cluster41_cons|n7	gi|9147|emb|X60174.1|	95.887	462	0.0	730.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (6279 bp)	X60174	reliable
+cluster42_cons|n14	gi|9150|emb|X60177.1|	78.425	635	8.5e-125	462.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (7779 bp)	X60177	weak_or_novel
+cluster43_cons|n24	gi|7154|emb|X60990.1|	96.491	57	4.41e-14	95.3	D.bifasciata p-transposon (clone jbifM3)	X60990	weak_or_novel
+cluster44_cons|n24	gi|7154|emb|X60990.1|	82.95	522	4.3600000000000006e-129	477.0	D.bifasciata p-transposon (clone jbifM3)	X60990	weak_or_novel
+cluster45_cons|n15	gi|7154|emb|X60990.1|	79.237	236	8.06e-41	183.0	D.bifasciata p-transposon (clone jbifM3)	X60990	weak_or_novel
+cluster46_cons|n32	gi|8332|emb|Z16407.1|	92.523	107	1.56e-33	159.0	D.melanogaster DNA (clone pfd800)	Z16407	reliable
+cluster47_cons|n10	gi|8498|emb|X63731.1|	80.702	285	3.8199999999999998e-53	224.0	D.melanogaster regulatory signal sequence (clone scs)	X63731	weak_or_novel
+cluster48_cons|n31	gi|9148|emb|X60175.1|	90.991	111	6.58e-33	158.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (3778 bp)	X60175	reliable
+cluster49_cons|n15	gi|9148|emb|X60175.1|	95.288	191	5.42e-78	307.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (3778 bp)	X60175	reliable
+cluster4_cons|n11	gi|3016222810|emb|OZ271665.1|	90.244	205	5.0499999999999995e-67	270.0	Arabidopsis thaliana genome assembly, chromosome: 1	OZ271665	reliable
+cluster50_cons|n15	gi|2632992391|gb|CP120823.1|	83.544	79	4.06e-08	75.0	Fulvia fulva strain 2 4 9 11 chromosome 10	CP120823	weak_or_novel
+cluster51_cons|n7	gi|9147|emb|X60174.1|	100.0	55	1.76e-16	102.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (6279 bp)	X60174	weak_or_novel
+cluster52_cons|n7	gi|9147|emb|X60174.1|	87.5	192	2.77e-54	228.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (6279 bp)	X60174	weak_or_novel
+cluster53_cons|n5	gi|2632992391|gb|CP120823.1|	81.633	294	8.71e-58	239.0	Fulvia fulva strain 2 4 9 11 chromosome 10	CP120823	weak_or_novel
+cluster54_cons|n9	gi|2632992391|gb|CP120823.1|	84.275	407	2.19e-100	381.0	Fulvia fulva strain 2 4 9 11 chromosome 10	CP120823	weak_or_novel
+cluster55_cons|n5	gi|9149|emb|X60176.1|	90.952	210	1.01e-68	276.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (5218 bp)	X60176	reliable
+cluster56_cons|n6	gi|9148|emb|X60175.1|	100.0	550	0.0	1016.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (3778 bp)	X60175	reliable
+cluster57_cons|n13	gi|9149|emb|X60176.1|	88.35	309	1.15e-93	359.0	D.silvestris clone U28T2 non-LTR retrotransposon DNA (5218 bp)	X60176	weak_or_novel
+cluster58_cons|n18	gi|421932531|gb|JX828218.1|	90.361	83	7.790000000000001e-21	117.0	Aegilops tauschii clone SC-3 alpha-gliadin (gli-2) pseudogene, complete sequence	JX828218	weak_or_novel
+cluster59_cons|n13	gi|5732|emb|X03548.1|	94.69	113	7.64e-40	180.0	Bombyx mori Bm1 repetitive DNA element (clone B) located within the 3'flank of 5H4 early chorion gene the early chorion locus is located 4 map units from the late chorion locus of chromosome 2	X03548	reliable
+cluster5_cons|n11	gi|3016222810|emb|OZ271665.1|	90.614	554	0.0	760.0	Arabidopsis thaliana genome assembly, chromosome: 1	OZ271665	reliable
+cluster60_cons|n16	gi|21683|emb|X54517.1|	78.711	357	3.1700000000000003e-59	244.0	Wheat alpha-gliadin pseudogene (clone CNN16)	X54517	weak_or_novel
+cluster61_cons|n11	gi|21684|emb|X54689.1|	83.774	265	4.8e-63	257.0	Wheat alpha-gliadin pseudogene (clone CNNE17)	X54689	weak_or_novel
+cluster62_cons|n10	gi|3037841297|gb|CP159426.1|	94.737	76	3.8999999999999994e-23	124.0	Saccharomyces cerevisiae strain C018 chromosome 15	CP159426	weak_or_novel
+cluster63_cons|n12	gi|21684|emb|X54689.1|	80.033	606	1.15e-113	425.0	Wheat alpha-gliadin pseudogene (clone CNNE17)	X54689	weak_or_novel
+cluster64_cons|n8	gi|6650017|gb|AF051915.1|AF051915	90.994	322	4.31e-117	436.0	Cladosporium fulvum CfT-1 LTR-retrotransposon, complete sequence	AF051915	reliable
+cluster65_cons|n7	gi|1694998964|ref|NC_043491.1|	87.143	420	1.72e-136	501.0	Cladosporium fulvum T-1 virus LTR-retrotransposon encoding homologues to retroviral gag, pol, and env genes	NC_043491	weak_or_novel
+cluster66_cons|n10	gi|21685|emb|X54688.1|	90.323	217	3.47e-78	307.0	Wheat alpha-gliadin pseudogene (clone CNN35)	X54688	reliable
+cluster67_cons|n6	gi|3259|emb|X62991.1|	97.452	157	1.1299999999999999e-67	272.0	Schedonorus arundinaceus symbiont ATCC 56207 5.8S rRNA gene (partial), ITS2 and 26S rRNA gene (partial)	X62991	reliable
+cluster68_cons|n13	gi|1163012673|gb|CP020295.1|	92.045	88	1.5400000000000001e-22	122.0	Saccharomyces paradoxus strain UFRJ50816 chromosome III, complete sequence	CP020295	weak_or_novel
+cluster69_cons|n6	gi|2919985631|emb|OZ208603.1|	93.367	196	1.15e-71	285.0	Bombyx mori genome assembly, chromosome: 25	OZ208603	reliable
+cluster6_cons|n6	gi|3016222810|emb|OZ271665.1|	94.991	579	0.0	881.0	Arabidopsis thaliana genome assembly, chromosome: 1	OZ271665	reliable
+cluster70_cons|n12	gi|3037841289|gb|CP159418.1|	89.54	239	1.8599999999999999e-81	318.0	Saccharomyces cerevisiae strain C018 chromosome 7	CP159418	weak_or_novel
+cluster71_cons|n8	gi|21685|emb|X54688.1|	94.595	111	3.59e-38	174.0	Wheat alpha-gliadin pseudogene (clone CNN35)	X54688	reliable
+cluster72_cons|n8	gi|3037841289|gb|CP159418.1|	93.491	507	0.0	743.0	Saccharomyces cerevisiae strain C018 chromosome 7	CP159418	reliable
+cluster73_cons|n29	gi|2997657549|gb|CP085110.1|	79.551	401	2.69e-76	302.0	Saccharomyces cerevisiae strain SMY63 chromosome II	CP085110	weak_or_novel
+cluster74_cons|n5	gi|1976324640|ref|NC_052650.1|	93.623	345	7.419999999999999e-139	508.0	Halobacterium phage phiH variant phiH1, complete genome	NC_052650	reliable
+cluster75_cons|n17	gi|386800916|ref|NC_017896.1|	98.013	151	2.1300000000000002e-66	268.0	Aspergillus nidulans FGSC A4 mitochondrion, complete genome	NC_017896	reliable
+cluster76_cons|n14	gi|12687|emb|V00650.1|	85.138	471	1.34e-127	472.0	Mitochondrion Aspergillus nidulans unidentified reading frames URF1 and URF4 (identified by homology to human URF1 and URF4)	V00650	weak_or_novel
+cluster77_cons|n15	gi|386800916|ref|NC_017896.1|	89.224	232	7.55e-76	300.0	Aspergillus nidulans FGSC A4 mitochondrion, complete genome	NC_017896	weak_or_novel
+cluster78_cons|n5	gi|2129715303|gb|CP086035.1|	89.722	467	2.82e-163	590.0	Leishmania major breed Culture 1 isolate JRCGR_LM-01 chromosome 12	CP086035	weak_or_novel
+cluster79_cons|n25	gi|2756276161|ref|XM_066312822.1|	82.09	201	6.65e-42	187.0	PREDICTED: Oryza sativa Japonica Group prolamin PPROL 14P-like (LOC136357533), mRNA	XM_066312822	weak_or_novel
+cluster7_cons|n5	gi|3016222810|emb|OZ271665.1|	93.29	462	0.0	673.0	Arabidopsis thaliana genome assembly, chromosome: 1	OZ271665	reliable
+cluster80_cons|n9	gi|20301|emb|X53856.1|	97.691	563	0.0	965.0	O. sativa mRNA for prolamin (clone pS23)	X53856	reliable
+cluster81_cons|n14	gi|21685|emb|X54688.1|	93.651	63	8.95e-15	97.1	Wheat alpha-gliadin pseudogene (clone CNN35)	X54688	weak_or_novel
+cluster82_cons|n16	gi|21685|emb|X54688.1|	91.837	98	5.850000000000001e-27	137.0	Wheat alpha-gliadin pseudogene (clone CNN35)	X54688	weak_or_novel
+cluster83_cons|n9	gi|1519312509|ref|NM_001687.5|	99.0	700	0.0	1258.0	Homo sapiens ATP synthase F1 subunit delta (ATP5F1D), transcript variant 1, mRNA; nuclear gene for mitochondrial product	NM_001687	reliable
+cluster84_cons|n15	gi|1519312509|ref|NM_001687.5|	90.476	504	0.0	678.0	Homo sapiens ATP synthase F1 subunit delta (ATP5F1D), transcript variant 1, mRNA; nuclear gene for mitochondrial product	NM_001687	reliable
+cluster85_cons|n11	gi|21622697|gb|AF186191.6|	96.667	90	1.59e-31	152.0	Homo sapiens chromosome 8 clone CTC-259J15 map 8q24.3, complete sequence.	AF186191	weak_or_novel
+cluster86_cons|n23	gi|2771813200|gb|CP139521.2|	94.059	101	2.42e-31	152.0	Homo sapiens isolate NA24385 chromosome 21	CP139521	reliable
+cluster87_cons|n31	gi|14141244|emb|AL158210.12|	98.333	120	1.06e-49	213.0	Human DNA sequence from clone RP11-554I8 on chromosome 10, complete sequence	AL158210	reliable
+cluster88_cons|n8	gi|303288|gb|S60262.1|	93.06	317	3.48e-133	490.0	pepcZm1=phosphoenolpyruvate carboxylase {5' region} [corn, protoplast, Genomic, 813 nt]	S60262	reliable
+cluster89_cons|n10	gi|2731949427|gb|CP154949.1|	92.118	609	0.0	869.0	Oryza rufipogon isolate Y476 chromosome 8	CP154949	reliable
+cluster8_cons|n7	gi|18719|emb|X60772.1|	83.142	261	6.82e-65	263.0	G.max mRNA for 24 kDa oleosin isoform (partial) (clone P24/89)	X60772	weak_or_novel
+cluster90_cons|n14	gi|11954|emb|X04789.1|	92.357	314	7.31e-126	466.0	Rice chloroplast DNA for ribulose-1,5-biphosphate carboxylase (clone pCT-1)	X04789	reliable
+cluster91_cons|n6	gi|21962|emb|X58703.1|	88.72	328	4.7400000000000005e-105	396.0	T.repens DNA for tandem repeat region, clone pTrR700.1	X58703	weak_or_novel
+cluster92_cons|n15	gi|2739942701|emb|OZ060774.1|	85.841	226	1.29e-62	255.0	Trifolium occidentale genome assembly, chromosome: 7	OZ060774	weak_or_novel
+cluster93_cons|n8	gi|13606087|gb|AF090447.2|	90.492	589	0.0	741.0	Zea mays 22 kDa alpha zein gene cluster, complete sequence	AF090447	reliable
+cluster94_cons|n31	gi|22802|emb|X03835.1|	91.329	173	7.49e-62	254.0	Cebus apella DNA interacting with antibodies to Z-DNA (clone pCH11) (satellite DNA 1520 bp repeat HaeIII fragment of R-positive heterochromatin segments of fixed metaphase chromosomes)	X03835	reliable
+cluster95_cons|n76	gi|2633382028|ref|NM_001426339.1|	98.276	58	1.24e-16	104.0	Spinacia oleracea thioredoxin M-type, chloroplastic-like (LOC110782047), mRNA; nuclear gene for chloroplast product	NM_001426339	weak_or_novel
+cluster96_cons|n23	gi|2033714910|gb|CP068261.2|	87.379	103	1.09e-24	130.0	Homo sapiens isolate CHM13 chromosome 17	CP068261	weak_or_novel
+cluster97_cons|n14	gi|2314286283|ref|XM_051032932.1|	94.332	247	9.83e-100	379.0	PREDICTED: Lathyrus oleraceus legumin K-like (LOC127094061), mRNA	XM_051032932	reliable
+cluster98_cons|n89	gi|1277262368|ref|NM_001112275.2|	95.455	110	2.03e-39	180.0	Zea mays alpha zein (z1A1_2), mRNA	NM_001112275	reliable
+cluster99_cons|n8	gi|2314286283|ref|XM_051032932.1|	82.427	239	7.32e-51	217.0	PREDICTED: Lathyrus oleraceus legumin K-like (LOC127094061), mRNA	XM_051032932	weak_or_novel
+cluster9_cons|n17	gi|527047945|tpe|HG323781.1|	95.495	111	1.76e-40	182.0	TPA: Humulus lupulus SRP RNA for signal recognition particle RNA	HG323781	reliable

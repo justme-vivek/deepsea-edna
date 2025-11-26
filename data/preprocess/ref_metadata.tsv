@@ -1,0 +1,470 @@
+accession	label	description	clean_header	length	n_count
+X64126.1	Bos taurus	B.taurus DNA for SINE sequence Bov-1DAF327250.1 Bos taurus clone BOVA2 SINE Bov-A2 repeat sequence	X64126.1 Bos taurus	260	0
+X60725.1	Feline immunodeficiency	Feline immunodeficiency virus ENV gene for envelope precursor glycoprotein	X60725.1 Feline immunodeficiency	2571	0
+Z18528.1	Ovis aries	O.aries repeat sequenceU24089.1 Ovis aries satellite I repeat, clone REPEAT4	Z18528.1 Ovis aries	458	0
+X51559.1	S. scrofa	S. scrofa Mc1 satellite DNA (clone pAL7.1)	X51559.1 S. scrofa	190	0
+X51560.1	S. scrofa	S. scrofa Mc1 satellite DNA (clone pAL7.4)	X51560.1 S. scrofa	192	0
+X51558.1	S. scrofa	S. scrofa Mc1 satellite DNA (clone pAL7.5)	X51558.1 S. scrofa	294	0
+X51556.1	S. scrofa	S. scrofa Mc1 satellite DNA (clone pAv1.6)	X51556.1 S. scrofa	305	0
+X51555.1	S. scrofa	S. scrofa Mc1 satellite DNA (clone pAv1.5)	X51555.1 S. scrofa	313	0
+X51564.1	S. scrofa	S. scrofa Ac2 satellite DNA (clone pHi4.2)	X51564.1 S. scrofa	156	0
+X51565.1	S. scrofa	S. scrofa Ac2 satellite DNA (clone pHi4.5)	X51565.1 S. scrofa	76	0
+X51563.1	S. scrofa	S. scrofa Ac2 satellite DNA (clone pMb2.3)	X51563.1 S. scrofa	235	0
+X51561.1	S. scrofa	S. scrofa Ac2 satellite DNA (clone pMb3.4)	X51561.1 S. scrofa	309	0
+X51562.1	S. scrofa	S. scrofa Ac2 satellite DNA (clone pMb3.5)	X51562.1 S. scrofa	328	0
+X51557.1	S. scrofa	S. scrofa Mc1 satellite DNA (clone pPv15)	X51557.1 S. scrofa	301	0
+X53153.1	O.cuniculus VH	O.cuniculus VH gene (clone 41-1)	X53153.1 O.cuniculus VH	470	0
+X03564.1	Aspergillus nidulans	Aspergillus nidulans 5S rRNA type 1 gene (clone pKS 6-12)	X03564.1 Aspergillus nidulans	566	0
+X03566.1	Aspergillus nidulans	Aspergillus nidulans 5S rRNA type 2 gene (clone pMN 912)	X03566.1 Aspergillus nidulans	345	0
+X03567.1	Aspergillus nidulans	Aspergillus nidulans 5S rRNA type 2 gene (clone pMN 1412)	X03567.1 Aspergillus nidulans	394	0
+X03568.1	Aspergillus nidulans	Aspergillus nidulans 5S rRNA type 2 gene (clone pMN 24)	X03568.1 Aspergillus nidulans	243	0
+X03565.1	Aspergillus nidulans	Aspergillus nidulans 5S rRNA pseudogene (clone pKS 3-11)	X03565.1 Aspergillus nidulans	691	0
+X03569.1	Aspergillus nidulans	Aspergillus nidulans 5S rRNA pseudogene (clone pKS 5-14)	X03569.1 Aspergillus nidulans	332	0
+NC_043491.1	Cladosporium fulvum	Cladosporium fulvum T-1 virus LTR-retrotransposon encoding homologues to retroviral gag, pol, and env genesZ11866.1 Cladosporium fulvum T-1 virus LTR-retrotransposon encoding homologues to retroviral gag, pol, and env genes	NC_043491.1 Cladosporium fulvum	7396	0
+X62980.1	Festuca arizonica	Festuca arizonica symbiont p1572 5.8S rRNA gene (partial), ITS2 and 26S rRNA gene (partial)X62978.1 Lolium perenne symbiont ATCC 56210 5.8S rRNA gene (partial), ITS2 and 26S rRNA gene (partial)	X62980.1 Festuca arizonica	282	0
+X62979.1	Schedonorus pratensis	Schedonorus pratensis symbiont p180 5.8S rRNA gene (partial), ITS2 and 26S rRNA gene (partial)	X62979.1 Schedonorus pratensis	281	0
+X62986.1	Schedonorus pratensis	Schedonorus pratensis symbiont p178 5.8S rRNA gene (partial), ITS2 and 26S rRNA gene (partial)	X62986.1 Schedonorus pratensis	279	0
+X62991.1	Schedonorus arundinaceus	Schedonorus arundinaceus symbiont ATCC 56207 5.8S rRNA gene (partial), ITS2 and 26S rRNA gene (partial)	X62991.1 Schedonorus arundinaceus	666	0
+NM_001180606.1	Saccharomyces cerevisiae	Saccharomyces cerevisiae S288C F1F0 ATP synthase subunit 5 (ATP5), partial mRNAX12356.1 Yeast gene for ATP synthase subunit 5 (EC 3.6.1.34)AY557732.1 Saccharomyces cerevisiae clone FLH002155.01X YDR298C gene, complete cds	NM_001180606.1 Saccharomyces cerevisiae	639	0
+NM_001178784.1	Saccharomyces cerevisiae	Saccharomyces cerevisiae S288C cystinosin-like protein ERS1 (ERS1), partial mRNAX52468.1 Yeast ERS1 gene for a transmembrane proteinDQ331772.1 Synthetic construct Saccharomyces cerevisiae clone FLH145480.01X ERS1 gene, complete sequence	NM_001178784.1 Saccharomyces cerevisiae	783	0
+X01658.1	Yeast transfer	Yeast transfer RNA-Ile-1 (UAU) precursor (clone GKN-7)	X01658.1 Yeast transfer	248	0
+X01657.1	Yeast transfer	Yeast transfer RNA-Ile-2 (UAU) precursor (clone pGKN-11)	X01657.1 Yeast transfer	362	0
+X69881.1	S.cerevisiae DNA	S.cerevisiae DNA with unidentified reading frames	X69881.1 S.cerevisiae DNA	3811	0
+X01660.1	Yeast transfer	Yeast transfer RNA-Pro (UGG) precursor, gene suf 8+ (clone pGKN-2)	X01660.1 Yeast transfer	228	0
+X04153.1	Yeast transfer	Yeast transfer RNA-Ser-2 (AGA) gene (clone B)K00573.1 Yeast (S.cerevisiae) ser-tRNA-2b gene	X04153.1 Yeast transfer	132	0
+X04154.1	Yeast transfer	Yeast transfer RNA-Ser-2 (AGA) gene (clone G)K00574.1 Yeast (S.cerevisiae) ser-tRNA-2g gene	X04154.1 Yeast transfer	136	0
+X04155.1	Yeast transfer	Yeast transfer RNA-Ser-2 (AGA) gene (clone J)K00575.1 Yeast (S.cerevisiae) ser-tRNA-2j gene	X04155.1 Yeast transfer	142	0
+V00078.1	Antheraea polyphemus	Chorion A4--C1 gene of Antheraea polyphemus (silk moth)J01159.1 Silkmoth (A.polyphemus) chorion A4--c1 protein mRNA, class A; clone pc292	V00078.1 Antheraea polyphemus	409	0
+X03542.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone 1)	X03542.1 Bombyx mori	354	0
+X03543.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone 16)	X03543.1 Bombyx mori	190	0
+X03544.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone 6)	X03544.1 Bombyx mori	237	0
+X03545.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone 10)	X03545.1 Bombyx mori	243	0
+X03546.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone 11)	X03546.1 Bombyx mori	250	0
+X03547.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone A) located in the intron of 5H4 early chorion gene the early chorion locus is located 4 map units from the late chorion locus of chromosome 2	X03547.1 Bombyx mori	445	0
+X03548.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone B) located within the 3'flank of 5H4 early chorion gene the early chorion locus is located 4 map units from the late chorion locus of chromosome 2	X03548.1 Bombyx mori	266	0
+X03549.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone C) located within the 3'flank of 5H4 early chorion gene (reverse) the early chorion locus is located 4 map units from the late chorion locus of chromosome 2	X03549.1 Bombyx mori	239	0
+X03551.1	Bombyx mori	Bombyx mori Bm1 repetitive DNA element (clone D) located within the 3'flank of 5H4 early chorion gene the early chorion locus is located 4 map units from the late chorion locus of chromosome 2	X03551.1 Bombyx mori	397	0
+X01826.1	B.mori gene	B.mori gene for B family chorion protein (clone 410)	X01826.1 B.mori gene	512	0
+X12837.1	B.mori mRNA	B.mori mRNA for B family chorion protein (clone M2410)	X12837.1 B.mori mRNA	332	0
+X12839.1	B.mori mRNA	B.mori mRNA for B family chorion protein (clone M1768)	X12839.1 B.mori mRNA	449	0
+X12840.1	B.mori mRNA	B.mori mRNA for B family chorion protein (clone M3A5)	X12840.1 B.mori mRNA	343	0
+X51321.1	Caenorhabditis elegans	Caenorhabditis elegans mRNA for hypothetical protein, clone c10-12	X51321.1 Caenorhabditis elegans	1507	0
+X56915.1	D. bifasciata	D. bifasciata DNA for P-element (bif1)X61795.1 D.bifasciata P-Transposon (clone NbifM1)	X56915.1 D. bifasciata	195	0
+X56916.1	D. bifasciata	D. bifasciata DNA for P-element (bif2)X61747.1 D.bifasciata P-transposon (clone NbifM1)	X56916.1 D. bifasciata	653	0
+X60990.1	D.bifasciata p-transposon	D.bifasciata p-transposon (clone jbifM3)	X60990.1 D.bifasciata p-transposon	2935	0
+X04812.1	Drosophila hydei	Drosophila hydei y chromosome-specific ay1 repeat (clone ay1)	X04812.1 Drosophila hydei	393	0
+X05043.1	Drosophila hydei	Drosophila hydei y chromosome-specific ay1 repeat (clone by9)	X05043.1 Drosophila hydei	496	0
+X05047.1	Drosophila hydei	Drosophila hydei y chromosome-specific ay1 repeat (clone dy9)	X05047.1 Drosophila hydei	491	0
+X62538.1	D.melanogaster DNA	D.melanogaster DNA fragment with novel joint J1	X62538.1 D.melanogaster DNA	850	0
+Z16407.1	D.melanogaster DNA	D.melanogaster DNA (clone pfd800)	Z16407.1 D.melanogaster DNA	853	0
+X63731.1	D.melanogaster regulatory	D.melanogaster regulatory signal sequence (clone scs)	X63731.1 D.melanogaster regulatory	1798	0
+X63732.1	D.melanogaster regulatory	D.melanogaster regulatory signal sequence (clone scs')	X63732.1 D.melanogaster regulatory	1122	0
+X04246.1	Drosophila gene	Drosophila gene for small nuclear U2 RNA (related to clone 141)	X04246.1 Drosophila gene	403	0
+X04244.1	Drosophila gene	Drosophila gene for small nuclear U2 RNA (related to clone 131)	X04244.1 Drosophila gene	443	0
+X60174.1	D.silvestris clone	D.silvestris clone U28T2 non-LTR retrotransposon DNA (6279 bp)	X60174.1 D.silvestris clone	6279	0
+X60175.1	D.silvestris clone	D.silvestris clone U28T2 non-LTR retrotransposon DNA (3778 bp)	X60175.1 D.silvestris clone	3778	0
+X60176.1	D.silvestris clone	D.silvestris clone U28T2 non-LTR retrotransposon DNA (5218 bp)	X60176.1 D.silvestris clone	5218	0
+X17670.1	Holothuria polii	Holothuria polii satellite DNA (clone pHPE11)	X17670.1 Holothuria polii	400	0
+X17671.1	Holothuria polii	Holothuria polii satellite DNA (clone pHPE42)	X17671.1 Holothuria polii	391	0
+X17672.1	Holothuria polii	Holothuria polii satellite DNA (clone pHPE65)	X17672.1 Holothuria polii	391	0
+X17673.1	Holothuria polii	Holothuria polii satellite DNA (clone pHPE66)	X17673.1 Holothuria polii	391	0
+X17674.1	Holothuria polii	Holothuria polii satellite DNA (clone pHPE71)	X17674.1 Holothuria polii	391	0
+X57584.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-1)	X57584.1 L.cuprina satellite	132	0
+X57585.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-13)	X57585.1 L.cuprina satellite	190	0
+X57586.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-14)	X57586.1 L.cuprina satellite	188	0
+X57587.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-15)	X57587.1 L.cuprina satellite	182	0
+X57588.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-19)	X57588.1 L.cuprina satellite	182	0
+X57589.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-21)	X57589.1 L.cuprina satellite	189	0
+X57590.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-6)	X57590.1 L.cuprina satellite	182	0
+X57591.1	L.cuprina satellite	L.cuprina satellite DNA (clone TRS188-7)	X57591.1 L.cuprina satellite	174	0
+X06555.1	Leishmania major	Leishmania major DNA for membrane antigen containing repeating peptides (clone 20)	X06555.1 Leishmania major	815	0
+X06556.1	Leishmania major	Leishmania major DNA for antigen containing repeating peptides (clone 39)	X06556.1 Leishmania major	160	0
+X57134.1	L.major mRNA	L.major mRNA for surface antigen P2 (clone 2.5)	X57134.1 L.major mRNA	1117	0
+X57135.1	L.major mRNA	L.major mRNA for surface antigen P2 (clone 4.6)	X57135.1 L.major mRNA	984	0
+X56810.1	L.major mRNA	L.major mRNA for surface antigen P2 (clone 6.4)	X56810.1 L.major mRNA	2529	0
+X04892.1	Plasmodium chabaudi	Plasmodium chabaudi mRNA fragment for 24 kd antigen (clone 443)	X04892.1 Plasmodium chabaudi	331	0
+X06426.1	Plasmodium falciparum	Plasmodium falciparum (FCR3) mRNA, clone 22	X06426.1 Plasmodium falciparum	1109	0
+X17483.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 14C1)	X17483.1 Plasmodium falciparum	1173	0
+X17484.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 17C1)	X17484.1 Plasmodium falciparum	703	0
+X17485.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 18C1)	X17485.1 Plasmodium falciparum	3769	0
+X17486.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 25C4)	X17486.1 Plasmodium falciparum	2007	0
+X17487.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 28C6)	X17487.1 Plasmodium falciparum	717	0
+X17488.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 37C3)	X17488.1 Plasmodium falciparum	3192	0
+X17489.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 52C11)	X17489.1 Plasmodium falciparum	1284	0
+X17490.1	Plasmodium falciparum	Plasmodium falciparum mRNA for asparagine-rich antigen (clone 53C6)	X17490.1 Plasmodium falciparum	434	0
+X53014.1	P.falciparum DNA	P.falciparum DNA for erythrocyte membrane-associated antigen (clone pPf118)	X53014.1 P.falciparum DNA	1554	0
+X53025.1	P.falciparum DNA	P.falciparum DNA for erythrocyte membrane-associated antigen (clone pPfk34)	X53025.1 P.falciparum DNA	253	0
+X53026.1	P.falciparum DNA	P.falciparum DNA for erythrocyte membrane-associated antigen (clone pPfk51)	X53026.1 P.falciparum DNA	631	0
+X01343.1	Psammechinus miliaris	Psammechinus miliaris gene for histone H4 (clone h19)	X01343.1 Psammechinus miliaris	700	0
+X57501.1	P.univalens terminal	P.univalens terminal heterochromatin pentameric repeat segment DNA (clone pAm1)	X57501.1 P.univalens terminal	594	0
+X57502.1	P.univalens terminal	P.univalens terminal heterochromatin pentameric repeat segment DNA (clone pAm2)	X57502.1 P.univalens terminal	220	0
+X57504.1	P.univalens pentameric	P.univalens pentameric repeat segment DNA (clone pAm4)	X57504.1 P.univalens pentameric	584	0
+X57505.1	P.univalens terminal	P.univalens terminal heterochromatin pentameric repeat segment DNA (clone pAm6)	X57505.1 P.univalens terminal	265	0
+X57506.1	P.univalens terminal	P.univalens terminal heterochromatin pentameric repeat segment DNA (clone pAm7)	X57506.1 P.univalens terminal	340	0
+X57507.1	P.univalens pentameric	P.univalens pentameric repeat segment DNA (clone pAm8)	X57507.1 P.univalens pentameric	357	0
+X57508.1	P.univalens terminal	P.univalens terminal heterochromatin pentameric repeat segment DNA (clone pAm9)	X57508.1 P.univalens terminal	204	0
+X57511.1	P.univalens pentameric	P.univalens pentameric repeat segment DNA (clone pU12)	X57511.1 P.univalens pentameric	137	0
+X58635.1	P.univalens telomeric	P.univalens telomeric pentameric repeat segment DNA (clone pTem5)	X58635.1 P.univalens telomeric	784	0
+X53681.1	P.vivax antigenic	P.vivax antigenic determinant (clone PV12)	X53681.1 P.vivax antigenic	447	0
+X53680.1	P.vivax newly	P.vivax newly isolated recombinant antigen DNA (clone PV9)	X53680.1 P.vivax newly	174	0
+X16019.1	S.lemnae histone	S.lemnae histone H4 gene (clone H4g)	X16019.1 S.lemnae histone	756	0
+X17532.1	S.purpuratus RNA	S.purpuratus RNA for epidermal growth factor, uEGF (clone u2)	X17532.1 S.purpuratus RNA	442	0
+X02715.1	Trypanosome VSG	Trypanosome VSG 117 gene 5'limit of transposition (117 ELC)K02321.1 T.brucei transposed segment (117TS), clone 117ELC	X02715.1 Trypanosome VSG	246	0
+X70863.1	D.melanogaster mRNA	D.melanogaster mRNA for sgg39 protein kinase (clone pNB39)	X70863.1 D.melanogaster mRNA	2900	0
+X70865.1	D.melanogaster mRNA	D.melanogaster mRNA for sgg10 protein kinase (clone pnB9)	X70865.1 D.melanogaster mRNA	774	0
+X70866.1	D.melanogaster mRNA	D.melanogaster mRNA for sgg protein kinase (clone pnB11)	X70866.1 D.melanogaster mRNA	1011	0
+X04789.1	Rice chloroplast	Rice chloroplast DNA for ribulose-1,5-biphosphate carboxylase (clone pCT-1)	X04789.1 Rice chloroplast	1989	0
+X63422.1	Homo sapiens	Homo sapiens mRNA for delta-subunit of mitochondrial F1F0 ATP-synthase (clone #1)	X63422.1 Homo sapiens	994	0
+X63423.1	Home sapiens	Home sapiens mRNA for delta-subunit of mitochondrial F1F0 ATP-synthase (clone #5)	X63423.1 Home sapiens	691	0
+V00650.1	Aspergillus nidulans	Mitochondrion Aspergillus nidulans unidentified reading frames URF1 and URF4 (identified by homology to human URF1 and URF4)	V00650.1 Aspergillus nidulans	2830	0
+X04109.1	L.tarentolae kinetoplast	L.tarentolae kinetoplast partial minicircle sequence (clone D9)	X04109.1 L.tarentolae kinetoplast	286	0
+X04110.1	L.tarentolae kinetoplast	L.tarentolae kinetoplast partial minicircle sequence (clone D7)	X04110.1 L.tarentolae kinetoplast	173	0
+X04111.1	L.tarentolae kinetoplast	L.tarentolae kinetoplast partial minicircle sequence (clone D12)	X04111.1 L.tarentolae kinetoplast	207	0
+X04112.1	L.tarentolae kinetoplast	L.tarentolae kinetoplast partial minicircle sequence (clone B4)	X04112.1 L.tarentolae kinetoplast	488	0
+X04113.1	L.tarentolae kinetoplast	L.tarentolae kinetoplast partial minicircle sequence (clone B11)	X04113.1 L.tarentolae kinetoplast	315	0
+X14014.1	Trout mitochondrial	Trout mitochondrial DNA for unidentified reading frame 4 URF4	X14014.1 Trout mitochondrial	531	0
+X15810.1	T.vulgare mitochondrial	T.vulgare mitochondrial (clone pRec 11) tRNA-like DNA	X15810.1 T.vulgare mitochondrial	350	0
+V01469.1	Unidentified maize	Unidentified maize gene isolated as mRNA and as genomic clone. This sequence stems from the genomic clone	V01469.1 Unidentified maize	225	0
+X52504.1	Bacteriophage phi	Bacteriophage phi-H DNA for PhiH1 putative repressor and unidentified reading frame	X52504.1 Bacteriophage phi	1140	0
+V01534.1	This regions	Bacteriophage P1 genome fragment (IS2 insertion spot). This regions contains four unidentified reading frames and is known as insertion hot spot for IS2 insertion sequences	V01534.1 This regions	1756	0
+Z11457.1	Aegilops comosa	Aegilops comosa Sibth. et Smith 5S DNAEU925041.1 Aegilops comosa clone comosum_1 5S ribosomal RNA gene, complete sequenceEU925044.1 Aegilops comosa clone comosum_7 5S ribosomal RNA gene, complete sequence	Z11457.1 Aegilops comosa	409	0
+Z11477.1	Aegilops caudata	Aegilops caudata L. 5S DNAEU924958.1 Aegilops markgrafii clone Trit908-6 5S ribosomal RNA gene, complete sequenceEU924963.1 Aegilops markgrafii clone Trit911-6 5S ribosomal RNA gene, complete sequenceHQ270760.1 Aegilops cylindrica clone CY920-9 5S ribosomal RNA gene, complete sequenceHQ270908.1 Aegilops triuncialis clone TR960-3 5S ribosomal RNA gene, complete sequenceHQ270909.1 Aegilops triuncialis clone TR960-6 5S ribosomal RNA gene, complete sequence	Z11477.1 Aegilops caudata	411	0
+X51806.1	Acetabularia cliftonii	Acetabularia cliftonii partial mRNA ribulose 1,5-bisphosphate carboxylase/oxygenase (EC 4.1.1.39), small subunit (rbcS gene), clone C1	X51806.1 Acetabularia cliftonii	576	0
+X51807.1	Acetabularia cliftonii	Acetabularia cliftonii partial mRNA ribulose 1,5-bisphosphate carboxylase/oxygenase (EC 4.1.1.39), small subunit (rbcS gene), clone C2	X51807.1 Acetabularia cliftonii	391	0
+X51808.1	Acetabularia cliftonii	Acetabularia cliftonii mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone C3	X51808.1 Acetabularia cliftonii	821	0
+X51809.1	Acetabularia cliftonii	Acetabularia cliftonii mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone C4	X51809.1 Acetabularia cliftonii	793	0
+X51810.1	Acetabularia cliftonii	Acetabularia cliftonii mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small sububnit (rbcS gene), clone C5	X51810.1 Acetabularia cliftonii	734	0
+X02573.1	Allium cepa	Allium cepa satellite DNA repeat (clone 8062)	X02573.1 Allium cepa	380	0
+X02572.1	Allium cepa	Allium cepa satellite DNA repeat (clone 8013)	X02572.1 Allium cepa	372	0
+X02574.1	Allium cepa	Allium cepa satellite DNA repeat (clone 8009)	X02574.1 Allium cepa	383	0
+Z11478.1	Aegilops longissima	Aegilops longissima Scheinf. et Muschl. 5S DNAEU924906.1 Aegilops longissima clone Trit934-2 5S ribosomal RNA gene, complete sequenceEU924909.1 Aegilops longissima clone Trit934-5 5S ribosomal RNA gene, complete sequenceEU924917.1 Aegilops longissima clone Trit935-9 5S ribosomal RNA gene, complete sequenceFJ882431.1 Aegilops longissima x Aegilops tauschii clone TRIT882-1 5S ribosomal RNA gene, complete sequenceHQ270811.1 Aegilops kotschyi clone KO930-9 5S ribosomal RNA gene, complete sequenceHQ270857.1 Aegilops peregrina var. peregrina clone PE944-2 5S ribosomal RNA gene, complete sequenceHQ270865.1 Aegilops peregrina var. peregrina clone PE946-9 5S ribosomal RNA gene, complete sequenceHQ270869.1 Aegilops peregrina var. peregrina clone PE947-8 5S ribosomal RNA gene, complete sequenceHQ270870.1 Aegilops peregrina var. peregrina clone PE947-13 5S ribosomal RNA gene, complete sequenceHQ270871.1 Aegilops peregrina var. peregrina clone PE947-21 5S ribosomal RNA gene, complete sequence	Z11478.1 Aegilops longissima	411	0
+X51811.1	Acetabularia mediterranea	Acetabularia mediterranea mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone M1	X51811.1 Acetabularia mediterranea	833	0
+X51812.1	Acetabularia mediterranea	Acetabularia mediterranea partial mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone M2	X51812.1 Acetabularia mediterranea	797	0
+X51813.1	Acetabularia mediterranea	Acetabularia mediterranea mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone M3	X51813.1 Acetabularia mediterranea	890	0
+X51814.1	Acetabularia mediterranea	Acetabularia mediterranea mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone M4	X51814.1 Acetabularia mediterranea	741	0
+X51815.1	Acetabularia mediterranea	Acetabularia mediterranea mRNA for ribulose 1,5-bisphosphate carboxylase/oxygenase, small subunit (rbcS gene), clone M5	X51815.1 Acetabularia mediterranea	752	0
+Z11463.1	Aegilops searsii	Aegilops searsii Feldman et Kislev 5S DNAEU924923.1 Aegilops searsii clone Trit948-6 5S ribosomal RNA gene, complete sequenceEU924925.1 Aegilops searsii clone Trit948-8 5S ribosomal RNA gene, complete sequence	Z11463.1 Aegilops searsii	410	0
+X54368.1	Ser and	A. thaliana genes for tRNA-Ser and tRNA-Tyr (I and II), (clone pAtY1)	X54368.1 Ser and	1578	0
+X54369.1	Ser and	A. thaliana genes for tRNA-Ser and tRNA-Tyr (I and II), (clone pAtY2)	X54369.1 Ser and	1802	0
+X54370.1	A. thaliana	A. thaliana genes for tRNA-Ser (I and II), and tRNA-Tyr (I, II, and III), (clone pAtY3)	X54370.1 A. thaliana	2484	0
+X54371.1	A. thaliana	A. thaliana gene for tRNA-Tyr (clone pAtY4)	X54371.1 A. thaliana	597	0
+X54372.1	Ser and	A. thaliana gene for tRNA-Ser and tRNA-Tyr (I and II), (clone pAtY5)	X54372.1 Ser and	1536	0
+X54373.1	Ser and	A. thaliana genes for tRNA-Ser and tRNA-Tyr (I and II), (clone pAtY6)	X54373.1 Ser and	1538	0
+X54374.1	Ser and	A. thaliana genes for tRNA-Ser and tRNA-Tyr (I and II), (clone pAtY7)	X54374.1 Ser and	1538	0
+X54996.1	A.thaliana (clone	A.thaliana (clone At-2) TFIID mRNA for transcription initiation factor II	X54996.1 A.thaliana (clone	1109	0
+X57592.1	Trp gene	A.thaliana tRNA-Trp gene (clone 1)	X57592.1 Trp gene	343	0
+X57593.1	Trp gene	A.thaliana tRNA-Trp gene (clone 2)	X57593.1 Trp gene	429	0
+X57594.1	Trp gene	A.thaliana tRNA-Trp gene (clone 3)	X57594.1 Trp gene	245	0
+Z18377.1	Arabidopsis thaliana	Arabidopsis thaliana transcribed sequence; clone GBGa288, 5' end; similar to Vegetative storage protein,27K,precursor - soybean	Z18377.1 Arabidopsis thaliana	235	0
+Z18417.1	Arabidopsis thaliana	Arabidopsis thaliana transcribed sequence; clone GBGa463, 5' end; similar to Cyc07 protein, S-phase specific - Madagascar	Z18417.1 Arabidopsis thaliana	187	0
+Z11479.1	Aegilops umbellutata	Aegilops umbellutata Zhuk. 5S DNAEU925072.1 Aegilops umbellulata clone T_umb4 5S ribosomal RNA gene, complete sequenceEU925073.1 Aegilops umbellulata clone T_umb5 5S ribosomal RNA gene, complete sequence	Z11479.1 Aegilops umbellutata	489	0
+X61752.1	B. napus	B. napus A9 mRNA (clone A30)	X61752.1 B. napus	257	0
+Z21608.1	B.napus mRNA	B.napus mRNA for endogenous S-locus glycoprotein (clone SLG-Ws-1)	Z21608.1 B.napus mRNA	1472	0
+X16587.1	B. nigra	B. nigra tandem repeat DNA (clone pBN 34)	X16587.1 B. nigra	348	0
+X16588.1	B. nigra	B. nigra repeat DNA (clone pBN 35)	X16588.1 B. nigra	496	0
+X16589.1	B. nigra	B. nigra tandem repeat DNA (clone BN1G 9, BN1G 23, BG1G 14)	X16589.1 B. nigra	177	0
+X05060.1	Brassica napus	Brassica napus 5S ribosomal RNAX05059.1 Beta vulgaris saccharifera 5S ribosomal RNAAJ972877.1 Vitis vinifera 5S rRNA geneHF542974.1 Corylus avellana 5S rRNA gene, clone 4M10359.1 Spinach (S.oleracea) cytoplasmic 5S rRNA	X05060.1 Brassica napus	120	0
+X57266.1	Batophora oerstedii	Batophora oerstedii mRNA for ribulose bisphosphate carboxylase small subunit, clone B1	X57266.1 Batophora oerstedii	758	0
+X57267.1	B.oerstedii mRNA	B.oerstedii mRNA for ribulose bisphosphate carboxylase small subunit, clone B2	X57267.1 B.oerstedii mRNA	524	0
+X60772.1	Da oleosin	G.max mRNA for 24 kDa oleosin isoform (partial) (clone P24/89)	X60772.1 Da oleosin	732	0
+X65988.1	Humulus japonicus	Humulus japonicus small cytoplasmic RNA 7S (7S RNA gene), clone_lib Z10o	X65988.1 Humulus japonicus	302	0
+X65990.1	Humulus japonicus	Humulus japonicus small cytoplasmic RNA 7S (7S RNA gene), clone_lib Z13oHG323776.1 TPA: Humulus japonicus SRP RNA for signal recognition particle RNA	X65990.1 Humulus japonicus	301	0
+X65991.1	Humulus japonicus	Humulus japonicus small cytoplasmic RNA 7S (7S RNA gene), clone_lib Z20pHG323777.1 TPA: Humulus japonicus SRP RNA for signal recognition particle RNA	X65991.1 Humulus japonicus	303	0
+X65983.1	Humulus lupulus	Humulus lupulus small cytoplasmic RNA 7S (7S RNA gene), clone_lib H10pHG323780.1 TPA: Humulus lupulus SRP RNA for signal recognition particle RNA	X65983.1 Humulus lupulus	306	0
+X65984.1	Humulus lupulus	Humulus lupulus small cytoplasmic RNA 7S (7S RNA gene), clone_lib H20oHG323778.1 TPA: Humulus lupulus SRP RNA for signal recognition particle RNA	X65984.1 Humulus lupulus	307	0
+X65985.1	Humulus lupulus	Humulus lupulus small cytoplasmic RNA 7S (7S RNA gene), clone_lib H10oHG323779.1 TPA: Humulus lupulus SRP RNA for signal recognition particle RNA	X65985.1 Humulus lupulus	303	0
+X65987.1	Humulus lupulus	Humulus lupulus small cytoplasmic RNA 7S (7S RNA gene), clone_lib S15o	X65987.1 Humulus lupulus	301	0
+X15226.1	Amy gene	Barley Amy gene for alpha amylase (clone gRAmy152) (EC 3.2.1.1)	X15226.1 Amy gene	2625	0
+X15693.1	Barley m	Barley mRNA for chloroplast high molecular mass early light-inducible protein (ELIP) (clone HV58)	X15693.1 Barley m	860	0
+X15691.1	Barley m	Barley mRNA for chloroplast low molecular mass early light-inducible protein (ELIP) (clone HV60)	X15691.1 Barley m	764	0
+X15692.1	Barley m	Barley mRNA for chloroplast low molecular mass early light-inducible protein (ELIP) (clone HV90)	X15692.1 Barley m	660	0
+X05587.1	Barley m	Barley mRNA for leaf-specific thionin (clone DC4)	X05587.1 Barley m	658	0
+X05588.1	Barley m	Barley mRNA for leaf-specific thionin (clone DF2)	X05588.1 Barley m	453	0
+X05589.1	Barley m	Barley mRNA for leaf-specific thionin (clone DG3)	X05589.1 Barley m	544	0
+X05590.1	Barley m	Barley mRNA for leaf-specific thionin (clone DD3)	X05590.1 Barley m	491	0
+X55684.1	Tomato extensin	Tomato extensin mRNA (clone uG)	X55684.1 Tomato extensin	940	0
+X55681.1	Tomato extensin	Tomato extensin mRNA (clone w17-1)	X55681.1 Tomato extensin	459	0
+X55690.1	Tomato m	Tomato mRNA for a glycine-rich protein (clone uE-7)	X55690.1 Tomato m	385	0
+X55691.1	Tomato m	Tomato mRNA for a glycine-rich protein (clone w1-8)	X55691.1 Tomato m	619	0
+X55692.1	Tomato extensin	Tomato extensin mRNA (clone w1-8 L)	X55692.1 Tomato extensin	619	0
+X55694.1	Tomato extensin	Tomato extensin mRNA (clone w10-1 L)	X55694.1 Tomato extensin	402	0
+X55696.1	Tomato m	Tomato mRNA for a glycine-rich protein (clone uK-4)	X55696.1 Tomato m	404	0
+X55682.1	Tomato extensin	Tomato extensin mRNA (clone wY)	X55682.1 Tomato extensin	357	0
+X55686.1	Tomato extensin	Tomato extensin mRNA (clone uJ-2)	X55686.1 Tomato extensin	309	0
+X55688.1	Tomato m	Tomato mRNA for a glycine-rich protein (clone wM)	X55688.1 Tomato m	693	0
+X55689.1	Tomato m	Tomato mRNA for a glycine-rich protein (clone wN)	X55689.1 Tomato m	586	0
+NM_001247109.1	Solanum lycopersicum	Solanum lycopersicum TAS14 peptide (AA 1-130) (TAS14), mRNAX51904.1 Lycopersicon esculentum TAS14 mRNA inducible by abscisic acid and environmental stress	NM_001247109.1 Solanum lycopersicum	746	0
+X00137.1	Lemna gibba	Lemna gibba ribulose 1.5-bisphospate carboxylase small subunit (cDNA clone pLg ssu1)	X00137.1 Lemna gibba	776	0
+X59930.1	M.falcata mRNA	M.falcata mRNA for environmental stress and abscisic acid inducible protein	X59930.1 M.falcata mRNA	679	0
+X65494.1	Malus (unidentified	Malus (unidentified species of crab apple) mRNA for rubisco-1,5-bisphosphate carboxylase	X65494.1 Malus (unidentified	853	0
+X13288.1	M.sativa mRNA	M.sativa mRNA for nodulin-25 (clone 386i)	X13288.1 M.sativa mRNA	809	0
+X13289.1	Medicago sativa	Medicago sativa mRNA for nodulin-25 (clone 910)	X13289.1 Medicago sativa	961	0
+X58501.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY1 clone)	X58501.1 N.rustica cytoplasmic	410	0
+X58510.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY10 clone)	X58510.1 N.rustica cytoplasmic	491	0
+X58511.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY11 clone)	X58511.1 N.rustica cytoplasmic	458	0
+X58512.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY12 clone)	X58512.1 N.rustica cytoplasmic	404	0
+X58513.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY13 clone)	X58513.1 N.rustica cytoplasmic	452	0
+X58502.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr pseudogene (pNtY2 clone)	X58502.1 N.rustica cytoplasmic	386	0
+X58503.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY3 clone)	X58503.1 N.rustica cytoplasmic	445	0
+X58504.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNAC-tyr gene (pNtY4 clone)	X58504.1 N.rustica cytoplasmic	488	0
+X58505.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY5 clone)	X58505.1 N.rustica cytoplasmic	412	0
+X58506.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY6 clone)	X58506.1 N.rustica cytoplasmic	393	0
+X58507.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY7 clone)	X58507.1 N.rustica cytoplasmic	359	0
+X58508.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY8 clone)	X58508.1 N.rustica cytoplasmic	435	0
+X58509.1	N.rustica cytoplasmic	N.rustica cytoplasmic tRNA-tyr gene (pNtY9 clone)	X58509.1 N.rustica cytoplasmic	419	0
+X53856.1	O. sativa	O. sativa mRNA for prolamin (clone pS23)	X53856.1 O. sativa	609	0
+X53857.1	O. sativa	O. sativa mRNA for prolamin (clone pX24)	X53857.1 O. sativa	596	0
+X07928.1	Petunia hybrida	Petunia hybrida gene for 5S ribosomal RNA clone pHWH5c	X07928.1 Petunia hybrida	463	0
+X07929.1	Petunia hybrida	Petunia hybrida gene for 5S ribosomal RNA clone pHWH5b	X07929.1 Petunia hybrida	461	0
+X07930.1	Petunia hybrida	Petunia hybrida gene for 5S ribosomal RNA clone pHWH5a	X07930.1 Petunia hybrida	461	0
+X65154.1	P.sativum GA	P.sativum GA mRNA (clone A)	X65154.1 P.sativum GA	575	0
+X67423.1	Pisum sativum	Pisum sativum legK gene (clone lambda LegJ2)	X67423.1 Pisum sativum	3385	0
+X15926.1	Pea U1	Pea U1 snRNA (clone pPSU1.1)	X15926.1 Pea U1	162	0
+X15927.1	Pea U1	Pea U1 snRNA (clone pPSU1.2)	X15927.1 Pea U1	160	0
+X15928.1	Pea U1	Pea U1 snRNA (clone pPSU1.3)	X15928.1 Pea U1	160	0
+X15929.1	Pea U2	Pea U2 snRNA (clone pPSU2.1)	X15929.1 Pea U2	194	0
+XR_007794230.1	Pisum sativum	PREDICTED: Pisum sativum U2 spliceosomal RNA (LOC127099757), ncRNAX15930.1 Pea U2 snRNA (clone pPSU2.2)	XR_007794230.1 Pisum sativum	195	0
+X15931.1	Pea U4	Pea U4 snRNA (clone pPSUN4.1)	X15931.1 Pea U4	152	0
+X15932.1	Pea U4	Pea U4 snRNA (clone pPSU4.2)	X15932.1 Pea U4	152	0
+X15933.1	Pea U4	Pea U4 snRNA (clone pPSU4.3)	X15933.1 Pea U4	150	0
+X15934.1	Pea U5	Pea U5 snRNA (clone pPSU5.3)	X15934.1 Pea U5	122	0
+X15935.1	Pea U5	Pea U5 snRNA (clone pPSU5.4)	X15935.1 Pea U5	122	0
+X60000.1	P.vulgaris rbcS	P.vulgaris rbcS mRNA for small subunit of ribulose bisphosphate carboxylase/oxygenase (clone pPvSS191)	X60000.1 P.vulgaris rbcS	849	0
+X59999.1	P.vulgaris rbcS	P.vulgaris rbcS mRNA for small subunit of ribulose bisphosphate carboxylase/oxygenase (clone pPvSS965)	X59999.1 P.vulgaris rbcS	591	0
+X63736.1	S.brevidens repetitive	S.brevidens repetitive DNA sequence (clone pSB1)	X63736.1 S.brevidens repetitive	322	0
+X63737.1	S.brevidens repetitive	S.brevidens repetitive DNA sequence (clone pSB7)	X63737.1 S.brevidens repetitive	167	0
+X69133.1	S.officinalis (clone	S.officinalis (clone G-4) gene for saporin	X69133.1 S.officinalis (clone	794	0
+X51463.1	Spinach m	Spinach mRNA for thioredoxin m (clone p6SocTRM-4)	X51463.1 Spinach m	893	0
+X63738.1	S.tuberosum repetitive	S.tuberosum repetitive DNA sequence (clone pST3)	X63738.1 S.tuberosum repetitive	845	0
+X63739.1	S.tuberosum repetitive	S.tuberosum repetitive DNA sequence (clone pST10)	X63739.1 S.tuberosum repetitive	121	0
+X60396.1	S.tuberosum promoter	S.tuberosum promoter region and partial gene for patatin (clone B24)	X60396.1 S.tuberosum promoter	1407	0
+X60398.1	S.tuberosum promoter	S.tuberosum promoter region and partial gene for patatin (clone pgT12)	X60398.1 S.tuberosum promoter	1180	0
+X60399.1	S.tuberosum promoter	S.tuberosum promoter region and partial gene for patatin (clone pgT16)	X60399.1 S.tuberosum promoter	1391	0
+X60397.1	S.tuberosum promoter	S.tuberosum promoter region and partial gene for patatin (clone pgT4)	X60397.1 S.tuberosum promoter	1611	0
+X52416.1	S.tuberosum waxy	S.tuberosum waxy gene for starch synthase (clone G1WxSt)	X52416.1 S.tuberosum waxy	1203	0
+X52417.1	S.tuberosum waxy	S.tuberosum waxy gene for starch synthase (clone G28WxSt)	X52417.1 S.tuberosum waxy	1335	0
+Z11419.1	Triticum aestivum	T.aestivum 5S DNAZ11452.1 Triticum aestivum L. 5S DNAAF150604.1 Triticum aestivum clone TRS89-08 5S ribosomal RNA gene, complete sequenceAF150610.1 Triticum aestivum clone TRS91-14 5S ribosomal RNA gene, complete sequenceFJ882433.1 Aegilops longissima x Aegilops tauschii clone TRIT882-4 5S ribosomal RNA gene, complete sequenceFJ882498.1 Triticum turgidum subsp. durum x Aegilops sharonensis clone TRIT885-1 5S ribosomal RNA gene, complete sequenceFJ882500.1 Triticum turgidum subsp. durum x Aegilops sharonensis clone TRIT885-3 5S ribosomal RNA gene, complete sequenceFJ882501.1 Triticum turgidum subsp. durum x Aegilops sharonensis clone TRIT885-4 5S ribosomal RNA gene, complete sequenceFJ882504.1 Triticum turgidum subsp. durum x Aegilops sharonensis clone TRIT886-4 5S ribosomal RNA gene, complete sequenceFJ882506.1 Triticum turgidum subsp. durum x Aegilops sharonensis clone TRIT886-8 5S ribosomal RNA gene, complete sequence	Z11419.1 Triticum aestivum	416	0
+X54517.1	Wheat alpha	Wheat alpha-gliadin pseudogene (clone CNN16)	X54517.1 Wheat alpha	3581	0
+X54689.1	Wheat alpha	Wheat alpha-gliadin pseudogene (clone CNNE17)	X54689.1 Wheat alpha	3566	0
+X54688.1	Wheat alpha	Wheat alpha-gliadin pseudogene (clone CNN35)	X54688.1 Wheat alpha	3573	0
+X04532.1	Wheat m	Wheat mRNA fragment for seed storage protein (clone PTAF4)	X04532.1 Wheat m	684	0
+X00234.1	Wheat m	Wheat mRNA fragment for small subunit precursor of RuBPCase (EC 4.1.1.39) (ribulosebisphosphate carboxylase, clone 512)	X00234.1 Wheat m	611	0
+X51731.1	Triticum aestivum	Triticum aestivum DNA for tRNA-Tyr,(clone pTtY1)	X51731.1 Triticum aestivum	210	0
+X51732.1	Triticum aestivum	Triticum aestivum DNA for tRNA-Tyr (clone pTtY2)	X51732.1 Triticum aestivum	210	0
+X69328.1	T.aestivum (clone	T.aestivum (clone pTAU1.2) U1 snRNA	X69328.1 T.aestivum (clone	159	0
+X69329.1	T.aestivum (clone	T.aestivum (clone pTAU1.1) U1 snRNA	X69329.1 T.aestivum (clone	161	0
+X69331.1	T.aestivum (clone	T.aestivum (clone pTAU1.6) U1 snRNA	X69331.1 T.aestivum (clone	139	0
+X69332.1	T.aestivum (clone	T.aestivum (clone pTAU1.4) U1 snRNA	X69332.1 T.aestivum (clone	142	0
+X69333.1	T.aestivum (clone	T.aestivum (clone pTAU1.3) U1 snRNA	X69333.1 T.aestivum (clone	158	0
+X69334.1	T.aestivum (clone	T.aestivum (clone pTAU1.5) U1 snRNA	X69334.1 T.aestivum (clone	161	0
+X69326.1	T.aestivum (clone	T.aestivum (clone pTAU2.2) U2 snRNA	X69326.1 T.aestivum (clone	194	0
+X69327.1	T.aestivum (clone	T.aestivum (clone pTAU2.3) U2 snRNA	X69327.1 T.aestivum (clone	196	0
+X69330.1	Triticum aestivum	T.aestivum (clone pTAU2.1) U2 snRNAS72337.1 (wU2.1)=U2 snRNA [Triticum aestivum=wheat, snRNA, 194 nt]	X69330.1 Triticum aestivum	194	0
+X58702.1	T.repens DNA	T.repens DNA for tandem repeat region, clone pTrR350.2	X58702.1 T.repens DNA	347	0
+X58701.1	T.repens DNA	T.repens DNA for tandem repeat region, clone pTrR350.1	X58701.1 T.repens DNA	347	0
+X58703.1	T.repens DNA	T.repens DNA for tandem repeat region, clone pTrR700.1	X58703.1 T.repens DNA	693	0
+X58704.1	T.repens DNA	T.repens DNA for tandem repeat region, clone pTrR700.2	X58704.1 T.repens DNA	694	0
+X51618.1	V.unguiculata RNA	V.unguiculata RNA for trypsin inhibitor cloned in pUSSRd4/6	X51618.1 V.unguiculata RNA	377	0
+X53607.1	Z.diploperennis repetitive	Z.diploperennis repetitive DNA (clone ZEAH 231)	X53607.1 Z.diploperennis repetitive	231	0
+X53608.1	Z.diploperennis repetitive	Z.diploperennis repetitive DNA (clone ZEAR 237)	X53608.1 Z.diploperennis repetitive	237	0
+X53609.1	Z.diploperennis repetitive	Z.diploperennis repetitive DNA (clone ZEAR 260)	X53609.1 Z.diploperennis repetitive	260	0
+X53610.1	Z.diploperennis repetitive	Z.diploperennis repetitive DNA (clone ZEAR 266)	X53610.1 Z.diploperennis repetitive	266	0
+X53611.1	Z.diploperennis repetitive	Z.diploperennis repetitive DNA (clone ZEAR 270)	X53611.1 Z.diploperennis repetitive	270	0
+X54212.1	Z.mays mRNA	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.120)	X54212.1 Z.mays mRNA	3093	0
+X70153.1	Z.mays mRNA	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.129)	X70153.1 Z.mays mRNA	2741	0
+X70154.1	Z.mays mRNA	Z.mays mRNA for b-32 protein, putative regulatory factor of zein expression (clone b-32.152)	X70154.1 Z.mays mRNA	1826	0
+X14581.1	Maize phosphoenolpyruvate	Maize phosphoenolpyruvate carboxylase gene 5'flanking region (EC 4.1.1.31) clone M21	X14581.1 Maize phosphoenolpyruvate	1182	0
+X14579.1	Maize C4-type	Maize C4-type phosphoenolpyruvate carboxylase gene 5'flanking region (EC 4.1.1.31) clone M324	X14579.1 Maize C4-type	1108	0
+X14580.1	Maize phosphoenolpyruvate	Maize phosphoenolpyruvate carboxylase gene 5'flanking region (EC 4.1.1.31) clone M91	X14580.1 Maize phosphoenolpyruvate	1185	0
+X57743.1	Z.mays mRNA	Z.mays mRNA for polygalacturonase (clone PG3)	X57743.1 Z.mays mRNA	1555	0
+X57575.1	Z.mays mRNA	Z.mays mRNA for polygalacturonase (clone PG4)	X57575.1 Z.mays mRNA	714	0
+X62384.1	Z.mays gene	Z.mays gene for polygalacturonase (clone 47)	X62384.1 Z.mays gene	918	0
+X62383.1	Z.mays gene	Z.mays gene for polygalacturonase (clone 65)	X62383.1 Z.mays gene	591	0
+X57274.1	Z.mays pollen	Z.mays pollen specific mRNA C-terminal (clone 3C12)	X57274.1 Z.mays pollen	1245	0
+X57275.1	Z.mays pollen	Z.mays pollen specific mRNA C-terminal (clone 4H7)	X57275.1 Z.mays pollen	837	0
+V01472.1	Zea mays	Zea mays gene encoding a zein (clone Z4)	V01472.1 Zea mays	1364	0
+V01473.1	Zea mays	Zea mays mRNA encoding a zein (clone ZG31A)	V01473.1 Zea mays	734	0
+V01474.1	Zea mays	Zea mays gene encoding a zein (clone zA1)	V01474.1 Zea mays	1218	0
+V01475.1	Zea mays	Zea mays mRNA encoding a zein (clone zA1)	V01475.1 Zea mays	943	0
+V01476.1	Zea mays	Zea mays mRNA encoding a zein (clone A20)	V01476.1 Zea mays	921	0
+V01477.1	Zea mays	Zea mays mRNA fragment encoding a zein (clone B49)	V01477.1 Zea mays	467	0
+V01479.1	Zea mays	Zea mays mRNA encoding a zein (clone ZG99)	V01479.1 Zea mays	862	0
+X02450.1	Maize m	Maize mRNA for zein polypeptide (clone M6)	X02450.1 Maize m	931	0
+X06935.1	Maize DNA	Maize DNA for maximal expression of zein (Mr 19000) gene (clone gZ19ab1)	X06935.1 Maize DNA	300	0
+V01481.1	Maize m	Maize mRNA (clone A30) for zein (a plant storage protein)	V01481.1 Maize m	794	0
+X60376.1	B. napus	B. napus CEX mRNA for a novel proline-rich protein	X60376.1 B. napus	1383	0
+X60377.1	A.thaliana APG	A.thaliana APG gene encoding a novel proline-rich protein	X60377.1 A.thaliana APG	3932	0
+X03835.1	Cebus apella	Cebus apella DNA interacting with antibodies to Z-DNA (clone pCH11) (satellite DNA 1520 bp repeat HaeIII fragment of R-positive heterochromatin segments of fixed metaphase chromosomes)	X03835.1 Cebus apella	1112	0
+X03836.1	Cebus apella	Cebus apella DNA interacting with antibodies to Z-DNA (clone pCH21) (=satellite DNA 1520 bp repeat HaeIII fragment of R-positive heterochromatin segments of fixed metaphase chromosomes)	X03836.1 Cebus apella	250	0
+X03837.1	Cebus apella	Cebus apella DNA interacting with antibodies to Z-DNA (clone pCH31) (=satellite DNA 1520 bp repeat HaeIII fragment of R-positive heterochromatin segments of fixed metaphase chromosomes)	X03837.1 Cebus apella	161	0
+Z16424.1	H. sapiens	H. sapiens (D9S152) DNA segment containing (CA) repeat; clone AFM015ya5; single read	Z16424.1 H. sapiens	197	0
+Z16425.1	H. sapiens	H. sapiens (D21S259) DNA segment containing (CA) repeat; clone AFM016xe5; single read	Z16425.1 H. sapiens	421	0
+Z16427.1	H. sapiens	H. sapiens (D2S110) DNA segment containing (CA) repeat; clone AFM016yc5; single read	Z16427.1 H. sapiens	354	0
+Z16431.1	H. sapiens	H. sapiens (D2S111) DNA segment containing (CA) repeat; clone AFM021tc1; single read	Z16431.1 H. sapiens	135	0
+Z16432.1	H. sapiens	H. sapiens (D11S899) DNA segment containing (CA) repeat; clone AFM022th2; single read	Z16432.1 H. sapiens	202	0
+Z16449.1	H. sapiens	H. sapiens (D20S96) DNA segment containing (CA) repeat; clone AFM029yc3; single read	Z16449.1 H. sapiens	193	0
+Z16454.1	H. sapiens	H. sapiens (D6S258) DNA segment containing (CA) repeat; clone AFM031yh12; single read	Z16454.1 H. sapiens	332	0
+Z16456.1	H. sapiens	H. sapiens (D2S112) DNA segment containing (CA) repeat; clone AFM032xg5; single read	Z16456.1 H. sapiens	261	0
+Z16457.1	H. sapiens	H. sapiens (D6S259) DNA segment containing (CA) repeat; clone AFM035wc1; single read	Z16457.1 H. sapiens	292	0
+Z16458.1	H. sapiens	H. sapiens (D1S189) DNA segment containing (CA) repeat; clone AFM036xc5; single read	Z16458.1 H. sapiens	221	0
+Z16459.1	H. sapiens	H. sapiens (D4S393) DNA segment containing (CA) repeat; clone AFM036xg11; single read	Z16459.1 H. sapiens	242	0
+Z16461.1	H. sapiens	H. sapiens (D18S53) DNA segment containing (CA) repeat; clone AFM036ya1; single read	Z16461.1 H. sapiens	240	0
+Z16463.1	H. sapiens	H. sapiens (D3S1259) DNA segment containing (CA) repeat; clone AFM036yb8; single read	Z16463.1 H. sapiens	236	0
+Z16465.1	H. sapiens	H. sapiens (D4S394) DNA segment containing (CA) repeat; clone AFM037yg1; single read	Z16465.1 H. sapiens	357	0
+Z16472.1	H. sapiens	H. sapiens (D17S784) DNA segment containing (CA) repeat; clone AFM044xg3; single read	Z16472.1 H. sapiens	304	0
+Z16474.1	H. sapiens	H. sapiens (D4S395) DNA segment containing (CA) repeat; clone AFM046xd4; single read	Z16474.1 H. sapiens	244	0
+Z16478.1	H. sapiens	H. sapiens (D7S481) DNA segment containing (CA) repeat; clone AFM049xe3; single read	Z16478.1 H. sapiens	251	0
+Z16480.1	H. sapiens	H. sapiens (D9S156) DNA segment containing (CA) repeat; clone AFM051xd6; single read	Z16480.1 H. sapiens	232	0
+Z16481.1	H. sapiens	H. sapiens (D20S99) DNA segment containing (CA) repeat; clone AFM051xf12; single read	Z16481.1 H. sapiens	268	0
+Z16483.1	H. sapiens	H. sapiens (D2S113) DNA segment containing (CA) repeat; clone AFM052xb4; single read	Z16483.1 H. sapiens	254	0
+Z16490.1	H. sapiens	H. sapiens (D1S193) DNA segment containing (CA) repeat; clone AFM057xf4; single read	Z16490.1 H. sapiens	128	0
+Z16491.1	H. sapiens	H. sapiens (D1S194) DNA segment containing (CA) repeat; clone AFM057xf8; single read	Z16491.1 H. sapiens	261	0
+Z16492.1	H. sapiens	H. sapiens (D5S394) DNA segment containing (CA) repeat; clone AFM057xh8; single read	Z16492.1 H. sapiens	188	0
+Z16494.1	H. sapiens	H. sapiens (D13S153) DNA segment containing (CA) repeat; clone AFM058xd6; single read	Z16494.1 H. sapiens	261	0
+Z16498.1	H. sapiens	H. sapiens (D6S261) DNA segment containing (CA) repeat; clone AFM059xh8; single read	Z16498.1 H. sapiens	120	0
+Z16499.1	H. sapiens	H. sapiens (D11S900) DNA segment containing (CA) repeat; clone AFM059yc5; single read	Z16499.1 H. sapiens	133	0
+Z16500.1	H. sapiens	H. sapiens (D6S262) DNA segment containing (CA) repeat; clone AFM059yd6; single read	Z16500.1 H. sapiens	229	0
+Z16502.1	H. sapiens	H. sapiens (D10S189) DNA segment containing (CA) repeat; clone AFM063xf4; single read	Z16502.1 H. sapiens	383	0
+Z16504.1	H. sapiens	H. sapiens (D5S395) DNA segment containing (CA) repeat; clone AFM063yb6; single read	Z16504.1 H. sapiens	361	0
+Z16506.1	H. sapiens	H. sapiens (D2S116) DNA segment containing (CA) repeat; clone AFM064xh7; single read	Z16506.1 H. sapiens	192	0
+Z16507.1	H. sapiens	H. sapiens (D13S154) DNA segment containing (CA) repeat; clone AFM065xe9; single read	Z16507.1 H. sapiens	355	0
+Z16513.1	H. sapiens	H. sapiens (D6S263) DNA segment containing (CA) repeat; clone AFM066xf7; single read	Z16513.1 H. sapiens	104	0
+Z17245.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM070ya9; single read	Z17245.1 H. sapiens	387	0
+Z16519.1	H. sapiens	H. sapiens (D7S482) DNA segment containing (CA) repeat; clone AFM070yc1; single read	Z16519.1 H. sapiens	210	0
+Z16524.1	H. sapiens	H. sapiens (D8S256) DNA segment containing (CA) repeat; clone AFM073yb7; single read	Z16524.1 H. sapiens	337	0
+Z16529.1	H. sapiens	H. sapiens (D11S903) DNA segment containing (CA) repeat; clone AFM077xe1; single read	Z16529.1 H. sapiens	144	0
+Z16531.1	H. sapiens	H. sapiens (D2S119) DNA segment containing (CA) repeat; clone AFM077yb7; single read	Z16531.1 H. sapiens	262	0
+Z16533.1	H. sapiens	H. sapiens (D22S284) DNA segment containing (CA) repeat; clone AFM078wc5; single read	Z16533.1 H. sapiens	124	0
+Z16534.1	H. sapiens	H. sapiens (D1S199) DNA segment containing (CA) repeat; clone AFM078yg5; single read	Z16534.1 H. sapiens	164	0
+Z17246.1	H. sapiens	H. sapiens (DXS983) DNA segment containing (CA) repeat; clone AFM078za1; single read	Z17246.1 H. sapiens	199	0
+Z16537.1	H. sapiens	H. sapiens (D16S406) DNA segment containing (CA) repeat; clone AFM079yh3; single read	Z16537.1 H. sapiens	280	0
+Z16538.1	H. sapiens	H. sapiens (D6S264) DNA segment containing (CA) repeat; clone AFM079zb7; single read	Z16538.1 H. sapiens	174	0
+Z16542.1	H. sapiens	H. sapiens (D5S397) DNA segment containing (CA) repeat; clone AFM080xh11; single read	Z16542.1 H. sapiens	313	0
+Z16543.1	H. sapiens	H. sapiens (D3S1264) DNA segment containing (CA) repeat; clone AFM081yh3; single read	Z16543.1 H. sapiens	263	0
+Z16545.1	H. sapiens	H. sapiens (D2S121) DNA segment containing (CA) repeat; clone AFM087xa1; single read	Z16545.1 H. sapiens	213	0
+Z16547.1	H. sapiens	H. sapiens (D3S1265) DNA segment containing (CA) repeat; clone AFM087yb7; single read	Z16547.1 H. sapiens	289	0
+Z16548.1	H. sapiens	H. sapiens (D7S484) DNA segment containing (CA) repeat; clone AFM087yd11; single read	Z16548.1 H. sapiens	147	0
+Z16549.1	H. sapiens	H. sapiens (D9S161) DNA segment containing (CA) repeat; clone AFM087yd3; single read	Z16549.1 H. sapiens	138	0
+Z17332.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM092xb7k; single read	Z17332.1 H. sapiens	180	0
+Z16554.1	H. sapiens	H. sapiens (D1S201) DNA segment containing (CA) repeat; clone AFM094tb7; single read	Z16554.1 H. sapiens	391	0
+Z16555.1	H. sapiens	H. sapiens (D10S192) DNA segment containing (CA) repeat; clone AFM094tc9; single read	Z16555.1 H. sapiens	317	0
+Z16556.1	H. sapiens	H. sapiens (D2S124) DNA segment containing (CA) repeat; clone AFM094zc9; single read	Z16556.1 H. sapiens	300	0
+Z16557.1	H. sapiens	H. sapiens (D1S202) DNA segment containing (CA) repeat; clone AFM095ta5; single read	Z16557.1 H. sapiens	201	0
+Z16558.1	H. sapiens	H. sapiens (D17S787) DNA segment containing (CA) repeat; clone AFM095tc5; single read	Z16558.1 H. sapiens	387	0
+Z16559.1	H. sapiens	H. sapiens (D1S203) DNA segment containing (CA) repeat; clone AFM095wc9; single read	Z16559.1 H. sapiens	196	0
+Z16564.1	H. sapiens	H. sapiens (D17S788) DNA segment containing (CA) repeat; clone AFM095zd11; single read	Z16564.1 H. sapiens	242	0
+Z16567.1	H. sapiens	H. sapiens (D7S486) DNA segment containing (CA) repeat; clone AFM098xg9; single read	Z16567.1 H. sapiens	284	0
+Z16569.1	H. sapiens	H. sapiens (D6S265) DNA segment containing (CA) repeat; clone AFM101xa1; single read	Z16569.1 H. sapiens	237	0
+Z16583.1	H. sapiens	H. sapiens (D17S789) DNA segment containing (CA) repeat; clone AFM107yb8; single read	Z16583.1 H. sapiens	312	0
+Z16584.1	H. sapiens	H. sapiens (D5S399) DNA segment containing (CA) repeat; clone AFM108xe3; single read	Z16584.1 H. sapiens	207	0
+Z16590.1	H. sapiens	H. sapiens (D5S400) DNA segment containing (CA) repeat; clone AFM112yb6; single read	Z16590.1 H. sapiens	278	0
+Z16591.1	H. sapiens	H. sapiens (D2S125) DNA segment containing (CA) repeat; clone AFM112yd4; single read	Z16591.1 H. sapiens	268	0
+Z16593.1	H. sapiens	H. sapiens (D7S488) DNA segment containing (CA) repeat; clone AFM113xc11; single read	Z16593.1 H. sapiens	167	0
+Z16598.1	H. sapiens	H. sapiens (D10S196) DNA segment containing (CA) repeat; clone AFM115xf2; single read	Z16598.1 H. sapiens	241	0
+Z16599.1	H. sapiens	H. sapiens (D6S268) DNA segment containing (CA) repeat; clone AFM115xh2; single read	Z16599.1 H. sapiens	256	0
+Z16600.1	H. sapiens	H. sapiens (D9S162) DNA segment containing (CA) repeat; clone AFM115yb4; single read	Z16600.1 H. sapiens	218	0
+Z16601.1	H. sapiens	H. sapiens (D1S207) DNA segment containing (CA) repeat; clone AFM116xb2; single read	Z16601.1 H. sapiens	270	0
+Z16602.1	H. sapiens	H. sapiens (D12S84) DNA segment containing (CA) repeat; clone AFM116xb8; single read	Z16602.1 H. sapiens	230	0
+Z17249.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM116xf8; single read	Z17249.1 H. sapiens	410	0
+Z16609.1	H. sapiens	H. sapiens (D2S126) DNA segment containing (CA) repeat; clone AFM119xc7; single read	Z16609.1 H. sapiens	378	0
+Z16610.1	H. sapiens	H. sapiens (D2S127) DNA segment containing (CA) repeat; clone AFM119xd2; single read	Z16610.1 H. sapiens	360	0
+Z16612.1	H. sapiens	H. sapiens (D19S210) DNA segment containing (CA) repeat; clone AFM119xh6; single read	Z16612.1 H. sapiens	232	0
+Z16623.1	H. sapiens	H. sapiens (D9S164) DNA segment containing (CA) repeat; clone AFM122xf4; single read	Z16623.1 H. sapiens	207	0
+Z16624.1	H. sapiens	H. sapiens (D12S85) DNA segment containing (CA) repeat; clone AFM122xf6; single read	Z16624.1 H. sapiens	176	0
+Z16625.1	H. sapiens	H. sapiens (D4S397) DNA segment containing (CA) repeat; clone AFM123xa9; single read	Z16625.1 H. sapiens	238	0
+Z16626.1	H. sapiens	H. sapiens (DXS988) DNA segment containing (CA) repeat; clone AFM123xd4; single read	Z16626.1 H. sapiens	160	0
+Z16627.1	H. sapiens	H. sapiens (D6S269) DNA segment containing (CA) repeat; clone AFM123xe1; single read	Z16627.1 H. sapiens	198	0
+Z16629.1	H. sapiens	H. sapiens (D20S105) DNA segment containing (CA) repeat; clone AFM123xh12; single read	Z16629.1 H. sapiens	282	0
+Z16630.1	H. sapiens	H. sapiens (D12S86) DNA segment containing (CA) repeat; clone AFM123xh2; single read	Z16630.1 H. sapiens	187	0
+Z16631.1	H. sapiens	H. sapiens (D18S56) DNA segment containing (CA) repeat; clone AFM123ya1; single read	Z16631.1 H. sapiens	260	0
+Z16632.1	H. sapiens	H. sapiens (D20S106) DNA segment containing (CA) repeat; clone AFM123yf8; single read	Z16632.1 H. sapiens	346	0
+Z16633.1	H. sapiens	H. sapiens (D10S198) DNA segment containing (CA) repeat; clone AFM126yd6; single read	Z16633.1 H. sapiens	312	0
+Z16637.1	H. sapiens	H. sapiens (D8S262) DNA segment containing (CA) repeat; clone AFM127xh2; single read	Z16637.1 H. sapiens	248	0
+Z16638.1	H. sapiens	H. sapiens (D5S402) DNA segment containing (CA) repeat; clone AFM127xh4; single read	Z16638.1 H. sapiens	319	0
+Z16639.1	H. sapiens	H. sapiens (D13S158) DNA segment containing (CA) repeat; clone AFM135xb8; single read	Z16639.1 H. sapiens	123	0
+Z16640.1	H. sapiens	H. sapiens (D4S398) DNA segment containing (CA) repeat; clone AFM135xc3; single read	Z16640.1 H. sapiens	274	0
+Z16641.1	H. sapiens	H. sapiens (D12S87) DNA segment containing (CA) repeat; clone AFM135xe3; single read	Z16641.1 H. sapiens	245	0
+Z16655.1	H. sapiens	H. sapiens (D6S272) DNA segment containing (CA) repeat; clone AFM142xe7; single read	Z16655.1 H. sapiens	308	0
+Z16658.1	H. sapiens	H. sapiens (D2S128) DNA segment containing (CA) repeat; clone AFM143xd12; single read	Z16658.1 H. sapiens	257	0
+Z16662.1	H. sapiens	H. sapiens (D4S400) DNA segment containing (CA) repeat; clone AFM143xh10; single read	Z16662.1 H. sapiens	320	0
+Z16665.1	H. sapiens	H. sapiens (D8S265) DNA segment containing (CA) repeat; clone AFM144zb2; single read	Z16665.1 H. sapiens	369	0
+Z16667.1	H. sapiens	H. sapiens (D21S260) DNA segment containing (CA) repeat; clone AFM147xb12; single read	Z16667.1 H. sapiens	366	0
+Z16670.1	H. sapiens	H. sapiens (D18S57) DNA segment containing (CA) repeat; clone AFM147yg7; single read	Z16670.1 H. sapiens	134	0
+X52166.1	Human clone	Human clone 14IB10 DNA 5' end	X52166.1 Human clone	176	0
+Z16676.1	H. sapiens	H. sapiens (D17S790) DNA segment containing (CA) repeat; clone AFM151xa11; single read	Z16676.1 H. sapiens	216	0
+Z16687.1	H. sapiens	H. sapiens (D5S406) DNA segment containing (CA) repeat; clone AFM154xg3; single read	Z16687.1 H. sapiens	334	0
+Z16688.1	H. sapiens	H. sapiens (D11S910) DNA segment containing (CA) repeat; clone AFM154yh2; single read	Z16688.1 H. sapiens	288	0
+Z16692.1	H. sapiens	H. sapiens (D2S131) DNA segment containing (CA) repeat; clone AFM155yd2; single read	Z16692.1 H. sapiens	317	0
+Z16701.1	H. sapiens	H. sapiens (D1S218) DNA segment containing (CA) repeat; clone AFM157xe7; single read	Z16701.1 H. sapiens	320	0
+Z16706.1	H. sapiens	H. sapiens (D4S404) DNA segment containing (CA) repeat; clone AFM158xc7; single read	Z16706.1 H. sapiens	145	0
+Z16708.1	H. sapiens	H. sapiens (D6S275) DNA segment containing (CA) repeat; clone AFM158ya11; single read	Z16708.1 H. sapiens	360	0
+Z16713.1	H. sapiens	H. sapiens (D16S409) DNA segment containing (CA) repeat; clone AFM161xa1; single read	Z16713.1 H. sapiens	165	0
+Z16718.1	H. sapiens	H. sapiens (D7S493) DNA segment containing (CA) repeat; clone AFM162xa7; single read	Z16718.1 H. sapiens	243	0
+Z16723.1	H. sapiens	H. sapiens (D5S407) DNA segment containing (CA) repeat; clone AFM163xa11; single read	Z16723.1 H. sapiens	177	0
+Z16729.1	H. sapiens	H. sapiens (D10S204) DNA segment containing (CA) repeat; clone AFM164tg9; single read	Z16729.1 H. sapiens	367	0
+Z16735.1	H. sapiens	H. sapiens (D18S58) DNA segment containing (CA) repeat; clone AFM164xe3; single read	Z16735.1 H. sapiens	257	0
+Z16740.1	H. sapiens	H. sapiens (D1S222) DNA segment containing (CA) repeat; clone AFM164yg1; single read	Z16740.1 H. sapiens	347	0
+Z16743.1	H. sapiens	H. sapiens (D19S216) DNA segment containing (CA) repeat; clone AFM164zb8; single read	Z16743.1 H. sapiens	342	0
+Z16763.1	H. sapiens	H. sapiens (D2S134) DNA segment containing (CA) repeat; clone AFM168xg11; single read	Z16763.1 H. sapiens	335	0
+Z16769.1	H. sapiens	H. sapiens (D2S136) DNA segment containing (CA) repeat; clone AFM172xe7; single read	Z16769.1 H. sapiens	103	0
+Z17250.1	H. sapiens	H. sapiens (D8S272) DNA segment containing (CA) repeat; clone AFM175xb4; single read	Z17250.1 H. sapiens	271	0
+Z16771.1	H. sapiens	H. sapiens (D17S795) DNA segment containing (CA) repeat; clone AFM175xg3; single read	Z16771.1 H. sapiens	167	0
+Z16773.1	H. sapiens	H. sapiens (D2S138) DNA segment containing (CA) repeat; clone AFM176xd4; single read	Z16773.1 H. sapiens	217	0
+Z16777.1	H. sapiens	H. sapiens (D2S139) DNA segment containing (CA) repeat; clone AFM177xh4; single read	Z16777.1 H. sapiens	260	0
+Z16784.1	H. sapiens	H. sapiens (D17S798) DNA segment containing (CA) repeat; clone AFM179xg11; single read	Z16784.1 H. sapiens	389	0
+Z16792.1	H. sapiens	H. sapiens (D2S140) DNA segment containing (CA) repeat; clone AFM182ya5; single read	Z16792.1 H. sapiens	185	0
+Z16801.1	H. sapiens	H. sapiens (D1S226) DNA segment containing (CA) repeat; clone AFM184xe11; single read	Z16801.1 H. sapiens	207	0
+Z16806.1	H. sapiens	H. sapiens (D1S227) DNA segment containing (CA) repeat; clone AFM184yf6; single read	Z16806.1 H. sapiens	138	0
+Z16816.1	H. sapiens	H. sapiens (D20S111) DNA segment containing (CA) repeat; clone AFM190xg1; single read	Z16816.1 H. sapiens	339	0
+Z16817.1	H. sapiens	H. sapiens (D13S163) DNA segment containing (CA) repeat; clone AFM190ya3; single read	Z16817.1 H. sapiens	296	0
+Z16820.1	H. sapiens	H. sapiens (D16S412) DNA segment containing (CA) repeat; clone AFM191wb10; single read	Z16820.1 H. sapiens	337	0
+Z16822.1	H. sapiens	H. sapiens (D6S284) DNA segment containing (CA) repeat; clone AFM191xa3; single read	Z16822.1 H. sapiens	320	0
+Z16825.1	H. sapiens	H. sapiens (D5S410) DNA segment containing (CA) repeat; clone AFM191xd8; single read	Z16825.1 H. sapiens	382	0
+Z16826.1	H. sapiens	H. sapiens (D7S499) DNA segment containing (CA) repeat; clone AFM191xh6; single read	Z16826.1 H. sapiens	376	0
+Z16827.1	H. sapiens	H. sapiens (D3S1285) DNA segment containing (CA) repeat; clone AFM191yg5; single read	Z16827.1 H. sapiens	403	0
+Z16829.1	H. sapiens	H. sapiens (D6S285) DNA segment containing (CA) repeat; clone AFM192yf2; single read	Z16829.1 H. sapiens	391	0
+Z16830.1	H. sapiens	H. sapiens (D17S799) DNA segment containing (CA) repeat; clone AFM192yh2; single read	Z16830.1 H. sapiens	346	0
+Z16831.1	H. sapiens	H. sapiens (D5S411) DNA segment containing (CA) repeat; clone AFM193xe11; single read	Z16831.1 H. sapiens	350	0
+Z16857.1	H. sapiens	H. sapiens (D6S286) DNA segment containing (CA) repeat; clone AFM198yc11; single read	Z16857.1 H. sapiens	420	0
+Z16861.1	H. sapiens	H. sapiens (D3S1290) DNA segment containing (CA) repeat; clone AFM198yh6; single read	Z16861.1 H. sapiens	360	0
+Z16862.1	H. sapiens	H. sapiens (D10S212) DNA segment containing (CA) repeat; clone AFM198zb4; single read	Z16862.1 H. sapiens	312	0
+Z16865.1	H. sapiens	H. sapiens (D5S413) DNA segment containing (CA) repeat; clone AFM198zh6; single read	Z16865.1 H. sapiens	364	0
+Z16870.1	H. sapiens	H. sapiens (D7S503) DNA segment containing (CA) repeat; clone AFM199xc3; single read	Z16870.1 H. sapiens	235	0
+Z16876.1	H. sapiens	H. sapiens (D1S233) DNA segment containing (CA) repeat; clone AFM199zd2; single read	Z16876.1 H. sapiens	316	0
+Z16886.1	H. sapiens	H. sapiens (D5S414) DNA segment containing (CA) repeat; clone AFM200ya9; single read	Z16886.1 H. sapiens	352	0
+Z16888.1	H. sapiens	H. sapiens (D8S278) DNA segment containing (CA) repeat; clone AFM200ye1; single read	Z16888.1 H. sapiens	344	0
+Z16889.1	H. sapiens	H. sapiens (D1S234) DNA segment containing (CA) repeat; clone AFM200yf12; single read	Z16889.1 H. sapiens	300	0
+Z16891.1	H. sapiens	H. sapiens (D10S214) DNA segment containing (CA) repeat; clone AFM200yh6; single read	Z16891.1 H. sapiens	342	0
+Z16895.1	H. sapiens	H. sapiens (D11S918) DNA segment containing (CA) repeat; clone AFM203vg1; single read	Z16895.1 H. sapiens	352	0
+Z16897.1	H. sapiens	H. sapiens (D8S279) DNA segment containing (CA) repeat; clone AFM203wc1; single read	Z16897.1 H. sapiens	339	0
+Z16899.1	H. sapiens	H. sapiens (D7S509) DNA segment containing (CA) repeat; clone AFM203wg1; single read	Z16899.1 H. sapiens	338	0
+Z16900.1	H. sapiens	H. sapiens (D13S165) DNA segment containing (CA) repeat; clone AFM203xa1; single read	Z16900.1 H. sapiens	302	0
+Z16903.1	H. sapiens	H. sapiens (D17S801) DNA segment containing (CA) repeat; clone AFM203xg5; single read	Z16903.1 H. sapiens	315	0
+Z16914.1	H. sapiens	H. sapiens (D10S215) DNA segment containing (CA) repeat; clone AFM205wd12; single read	Z16914.1 H. sapiens	251	0
+Z17334.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM205xh12; single read	Z17334.1 H. sapiens	363	0
+Z16936.1	H. sapiens	H. sapiens (D7S510) DNA segment containing (CA) repeat; clone AFM207wb2; single read	Z16936.1 H. sapiens	345	0
+Z16945.1	H. sapiens	H. sapiens (D2S153) DNA segment containing (CA) repeat; clone AFM207ye11; single read	Z16945.1 H. sapiens	307	0
+Z17256.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM210zb2; single read	Z17256.1 H. sapiens	337	0
+Z16966.1	H. sapiens	H. sapiens (D2S156) DNA segment containing (CA) repeat; clone AFM211yd6; single read	Z16966.1 H. sapiens	303	0
+Z16972.1	H. sapiens	H. sapiens (D18S64) DNA segment containing (CA) repeat; clone AFM212xg5; single read	Z16972.1 H. sapiens	352	0
+Z17257.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM212yb4; single read	Z17257.1 H. sapiens	375	0
+Z16973.1	H. sapiens	H. sapiens (D6S297) DNA segment containing (CA) repeat; clone AFM212yf6; single read	Z16973.1 H. sapiens	331	0
+Z17258.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM214xg11; single read	Z17258.1 H. sapiens	327	0
+Z16980.1	H. sapiens	H. sapiens (D5S423) DNA segment containing (CA) repeat; clone AFM214za9; single read	Z16980.1 H. sapiens	354	0
+Z16982.1	H. sapiens	H. sapiens (D5S424) DNA segment containing (CA) repeat; clone AFM214zg9; single read	Z16982.1 H. sapiens	342	0
+Z16983.1	H. sapiens	H. sapiens (DXS997) DNA segment containing (CA) repeat; clone AFM217xa5; single read	Z16983.1 H. sapiens	315	0
+Z16991.1	H. sapiens	H. sapiens (D6S300) DNA segment containing (CA) repeat; clone AFM218xg1; single read	Z16991.1 H. sapiens	342	0
+Z17002.1	H. sapiens	H. sapiens (D11S925) DNA segment containing (CA) repeat; clone AFM220yb6; single read	Z17002.1 H. sapiens	334	0
+Z17005.1	H. sapiens	H. sapiens (D3S1299) DNA segment containing (CA) repeat; clone AFM220yh12; single read	Z17005.1 H. sapiens	359	0
+Z17006.1	H. sapiens	H. sapiens (D3S1300) DNA segment containing (CA) repeat; clone AFM220yh4; single read	Z17006.1 H. sapiens	259	0
+Z17018.1	H. sapiens	H. sapiens (D11S926) DNA segment containing (CA) repeat; clone AFM224zc7; single read	Z17018.1 H. sapiens	156	0
+Z17029.1	H. sapiens	H. sapiens (D7S518) DNA segment containing (CA) repeat; clone AFM225xg9; single read	Z17029.1 H. sapiens	324	0
+Z17030.1	H. sapiens	H. sapiens (D6S303) DNA segment containing (CA) repeat; clone AFM225ya11; single read	Z17030.1 H. sapiens	315	0
+Z17032.1	H. sapiens	H. sapiens (D3S1303) DNA segment containing (CA) repeat; clone AFM225yd6; single read	Z17032.1 H. sapiens	324	0
+Z17043.1	H. sapiens	H. sapiens (D4S425) DNA segment containing (CA) repeat; clone AFM234va1; single read	Z17043.1 H. sapiens	325	0
+Z17051.1	H. sapiens	H. sapiens (D1S249) DNA segment containing (CA) repeat; clone AFM234wf6; single read	Z17051.1 H. sapiens	366	0
+Z17266.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM238va7; single read	Z17266.1 H. sapiens	367	0
+Z17069.1	H. sapiens	H. sapiens (D16S420) DNA segment containing (CA) repeat; clone AFM238xb2; single read	Z17069.1 H. sapiens	330	0
+Z17267.1	H. sapiens	H. sapiens DNA segment containing (CA) repeat; clone AFM238xd10; single read	Z17267.1 H. sapiens	314	0
+Z17079.1	H. sapiens	H. sapiens (D3S1308) DNA segment containing (CA) repeat; clone AFM240ve1; single read	Z17079.1 H. sapiens	241	0
+Z17085.1	H. sapiens	H. sapiens (D10S219) DNA segment containing (CA) repeat; clone AFM240wg7; single read	Z17085.1 H. sapiens	306	0
