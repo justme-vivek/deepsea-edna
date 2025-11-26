@@ -1,6 +1,7 @@
 streamlit
-biopython>=1.83
+biopython>=1.86
+plotly>=5.24.0
 pandas
 numpy
-requests
+scikit-learn
 pyarrow
