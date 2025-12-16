@@ -153,7 +153,7 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 ---
 
 ## 📜 License
-MIT License © 2025 Ansh Mishra
+MIT License © 2025 Vivek Mishra
 =======
 Generate embeddings from the original DNABERT (6-mer) model (zhihan1996/DNA_bert_6).
 >>>>>>> 11d3e53 (final project)
