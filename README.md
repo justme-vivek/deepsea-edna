@@ -17,11 +17,6 @@ This project processes raw eDNA sequences, generates embeddings with **DNABERT**
 
 ---
 
-## 📸 Demo Screenshots
-*(Add your screenshots here, e.g., UMAP plots, dashboard view, taxonomic pie charts)*
-
----
-
 ## 🛠️ Tech Stack
 - **Languages & Frameworks:** Python, Streamlit  
 - **AI/ML:** PyTorch, HuggingFace Transformers (DNABERT), scikit-learn, UMAP, HDBSCAN  
